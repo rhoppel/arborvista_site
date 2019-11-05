@@ -13,5 +13,6 @@ hide_git_sync_repo_link: false
 !!! - __Project Manager:__ Richard Hoppel [rhoppel@gmail.com; mobile 847.400-7505]
 
 !!!! - [__The APPROVED sign for this project from SmartSign / Click for details__][SmartSign]
+!!!! - **Dimensions:** 18" H x 6" width
 
 [SmartSign]: http://bit.ly/2TW2FLG
