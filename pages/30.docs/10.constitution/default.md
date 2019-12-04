@@ -1,3 +1,8 @@
+---
+title: 'AVA Constitution'
+hide_git_sync_repo_link: false
+---
+
 ﻿
 
 ! # ARBOR VISTA ASSOCIATION
