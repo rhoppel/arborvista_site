@@ -28,6 +28,6 @@ pagination: true
 # Arbor Vista
 ## portal to the neighborhood
 ### un-incorporated Warren Township, Lake County IL
-photo: Almond Marsh, May 16 2019 by Richard Hoppel
+photo: Almond Marsh, October 31 2019 by Richard Hoppel
 
 #### [Arbor Vista on google maps](https://www.google.com/maps/@42.3315518,-87.9990561,836m/data=!3m1!1e3)
