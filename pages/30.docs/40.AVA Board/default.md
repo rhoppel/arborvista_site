@@ -3,9 +3,9 @@
 
 !!!! ### Elected Offices
 
-- President: __Joe Trasatti__ (_hav7878@hotmail.com_)
-- Treasurer: __JB Morrow__
-- Vice President: __Karen Hoppel__ (_karhoppel@gmail.com_)
+- President (acting): __Karen Hoppel__ (_karhoppel@gmail.com_)
+- Treasurer (acting ): __Karen Hoppel__ (_rhoppel@gmail.com_)
+- Vice President: 
 - Secretary: __Jennifer Kielp__ (_jennifer@nounces.com_)
 - Sergeant-at-Arms: __Georgia Schuette__ (_glschuette@yahoo.com_)
 
