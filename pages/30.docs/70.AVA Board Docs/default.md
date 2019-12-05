@@ -10,3 +10,9 @@ title: "AVA Board Documents"
 
 ### AVA Records (files maintained by R Hoppel)
 [AVA files](https://files.hoppel.us/arborvista/)
+
+#### Restricted Site Access for AVA Board Members (temporary for testing)
+- to access AVA Phonebooks you must login with the following
+  - user: **avaboard**
+  - password: **AVA_board1**
+  

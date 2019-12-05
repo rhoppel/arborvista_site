@@ -1,6 +1,8 @@
 ---
 title: 'Arbor Vista Phonebook'
 hide_git_sync_repo_link: false
+access:
+  site.login: true
 ---
 
 ### Arbor Vista Phonebook
