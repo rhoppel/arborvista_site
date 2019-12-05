@@ -3,9 +3,6 @@ title: 'AVA Board Documents'
 hide_git_sync_repo_link: false
 ---
 
-information for AVA Board Members
-===
-
 ### Membership Records
 [Membership Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlUI9BtewibXOphoA)
 
