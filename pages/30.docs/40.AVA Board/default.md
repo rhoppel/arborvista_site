@@ -3,7 +3,7 @@ title: 'AVA Board'
 hide_git_sync_repo_link: false
 ---
 
-﻿## Arbor Vista Association Board of Directors
+## Arbor Vista Association Board of Directors
 
 !!!! ### Elected Offices
 
