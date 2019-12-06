@@ -8,6 +8,7 @@ hide_git_sync_repo_link: false
 
 ! ### Financial Records
 [Financial Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlQk0Ymc1hYJzXoWA)
+[Payment Reimbursement Form](https://files.hoppel.us/arborvista/Treasurer/Paymentrequest.pdf)
 
 ! ### AVA Records (files maintained by R Hoppel)
 [AVA files](https://files.hoppel.us/arborvista/)
