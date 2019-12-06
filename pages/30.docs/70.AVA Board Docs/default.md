@@ -12,7 +12,7 @@ hide_git_sync_repo_link: false
 
 ! ### AVA Records (files maintained by R Hoppel)
 * [AVA files](https://files.hoppel.us/arborvista/)
-* [Meetings](https://files.hoppel.us/arborvista/Meetings/)https://files.hoppel.us/arborvista/Meetings/)
+* [Meetings](https://files.hoppel.us/arborvista/Meetings/)
 * [Logos & Graphics](https://files.hoppel.us/arborvista/Meetings/)
 * [Maps](https://files.hoppel.us/arborvista/maps/)
 
