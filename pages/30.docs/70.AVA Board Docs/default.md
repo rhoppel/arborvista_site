@@ -12,7 +12,7 @@ hide_git_sync_repo_link: false
 
 ! ### AVA Records (files maintained by R Hoppel)
 * [AVA files](https://files.hoppel.us/arborvista/)
-* 
+* [Meetings](https://files.hoppel.us/arborvista/Meetings/)
 
 #### Restricted Site Access for AVA Board Members (temporary for testing)
 - to access AVA Phonebooks you must login with the following
