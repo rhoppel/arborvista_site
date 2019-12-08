@@ -18,7 +18,7 @@ hide_git_sync_repo_link: false
 - Member at at large: __Cindy Bingley__ (_CindyBingley@gmail.com_)
 - Welcoming:  __Paula Glassel__ (_paulajjg@hotmail.com_)
 - Buildings & Grounds: 
-- Social: Easter Egg Hunt (__Jennifer Kielp__); Halloween (__???__)
+- Social: __Jennifer Kielp__)
 
 !!!! ### Committees
 
