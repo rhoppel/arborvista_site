@@ -1,6 +1,8 @@
 ---
 title: 'AVA Board Documents'
 hide_git_sync_repo_link: false
+access:
+  site.login: true
 ---
 
 ! ### Membership Records
@@ -16,8 +18,3 @@ hide_git_sync_repo_link: false
 * [Logos & Graphics](https://files.hoppel.us/arborvista/Meetings/)
 * [Maps](https://files.hoppel.us/arborvista/maps/)
 
-#### Restricted Site Access for AVA Board Members (temporary for testing)
-- to access AVA Phonebooks you must login with the following
-  - user: **avaboard**
-  - password: **AVA_board1**
-  
