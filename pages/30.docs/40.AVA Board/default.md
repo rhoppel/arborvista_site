@@ -9,13 +9,14 @@ hide_git_sync_repo_link: false
 
 - President (acting): __Karen Hoppel__ (_karhoppel@gmail.com_)
 - Treasurer (acting ): __Richard Hoppel__ (_rhoppel@gmail.com_)
-- Vice President: 
+- Vice President: __Diana Friess__
 - Secretary: __Jennifer Kielp__ (_jennifer@nounces.com_)
 - Sergeant-at-Arms: __Georgia Schuette__ (_glschuette@yahoo.com_)
 
 !!!! ### Appointed
 
-- Member at at large: __Cindy Bingley__ (_CindyBingley@gmail.com_)
+- Member at large: __Cindy Bingley__ (_CindyBingley@gmail.com_)
+- Member at large: __Andrew Friess__
 - Welcoming:  __Paula Glassel__ (_paulajjg@hotmail.com_)
 - Buildings & Grounds: 
 - Social: __Jennifer Kielp__ (_jennifer@nounces.com_)
