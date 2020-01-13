@@ -8,6 +8,9 @@ access:
 ! ### Membership Records
 * [Membership Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlUI9BtewibXOphoA)
 
+! ### Arbor Vista Board - Google Group
+https://groups.google.com/forum/#!groupsettings/arborvista-board/
+
 ! ### Financial Records
 * [Financial Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlQk0Ymc1hYJzXoWA)
 * [Payment Reimbursement Form](https://files.hoppel.us/arborvista/Treasurer/Paymentrequest.pdf)
