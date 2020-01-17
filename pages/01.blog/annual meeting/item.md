@@ -11,7 +11,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: false
+hide_from_post_list: true
 ---
 
 <div class="bg-success">The 2019 Annual Arbor Vista Association is coming up soon</div>
