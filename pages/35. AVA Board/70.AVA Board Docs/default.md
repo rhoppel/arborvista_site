@@ -7,9 +7,6 @@ access:
 ! ### Arbor Vista Board - Google Group
 https://groups.google.com/d/forum/arborvista-board
 
-! ### Illinois Homeowners Association Rules and Regulations
-* [Illinois HOA Laws, Information, and Resources ](https://www.hopb.co/illinois)
-* [(765 ILCS 160/) Common Interest Community Association Act.](http://www.ilga.gov/legislation/ilcs/ilcs4.asp?ActID=3273&ChapterID=62&SeqStart=100000&SeqEnd=1850000)
 
 ! ### Membership Records
 * [Membership Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlUI9BtewibXOphoA)
