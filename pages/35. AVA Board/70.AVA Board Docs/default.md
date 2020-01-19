@@ -4,18 +4,11 @@ hide_git_sync_repo_link: false
 access:
   site.login: true
 ---
-
-!! ### 2020 AVA Annual Meeting Documents
-* [\[2020 Annual Meeting\] Budget Report](https://files.hoppel.us/arborvista/Treasurer/2020/[2020%20AVA%20Annual%20Meeting]%20Budget%20Report.pdf)
-* [\[2020 Annual Meeting\] Balance Sheet](https://files.hoppel.us/arborvista/Treasurer/2020/[2020%20AVA%20Annual%20Meeting]%20Balance%20Sheet.pdf)
-* [\[2020 Annual Meeting\] Assets](https://files.hoppel.us/arborvista/Treasurer/2020/[2020%20AVA%20Annual%20Meeting]%20Assets.pdf)
-* [\[2020 Annual Meeting\] Liabilities](https://files.hoppel.us/arborvista/Treasurer/2020/[2020%20AVA%20Annual%20Meeting]%20Liabilities.pdf)
+! ### Arbor Vista Board - Google Group
+https://groups.google.com/d/forum/arborvista-board
 
 ! ### Membership Records
 * [Membership Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlUI9BtewibXOphoA)
-
-! ### Arbor Vista Board - Google Group
-https://groups.google.com/forum/#!forum/arborvista-board
 
 ! ### Financial Records
 * [Financial Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlQk0Ymc1hYJzXoWA)
