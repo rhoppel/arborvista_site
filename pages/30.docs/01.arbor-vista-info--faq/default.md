@@ -12,6 +12,9 @@ The Arbor Vista Association is a volunteer group of residents and property owner
 This is done far more readily by residents as a group through their association than by individuals acting independently. Independent action however, in behalf of and in support of the association is very important to continuing success.
 
 __* AVA does not own any property__
+
 __* AVA does not have jurisdiction over any property owners in Arbor Vista__
+
 __* AVA cannot set any laws or regulations over any property owners in Arbor Vista__
+
 * 
