@@ -5,7 +5,7 @@ date: '15:34 19-01-2020'
 
 ! # Arbor Vista Association
 
-__* Arbor Vista Association (AVA) is a voluntary organization
+__* Arbor Vista Association (AVA) is a voluntary organization__
 
 The Arbor Vista Association is a volunteer group of residents and property owners of the Arbor Vista sub-division. It was formed for the purposes set forth in the Constitution. The primary purposes in brief are to maintain and up-grade, if possible, property values in this fine sub-division.
 
