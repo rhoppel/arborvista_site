@@ -11,7 +11,9 @@ date: '16:44 18-01-2020'
 - 2020 Budget is balanced
 - AVA has over $14,000 in cash assets
 - Put AVA Finances into Excel Spreadsheet on OneDrive Cloud Service for Real-time viewing
+  - allows easy online management and transfer to future treasurers 
 - Put AVA Membership Data into Excel Spreadsheet on OneDrive Cloud Service for Real-time viewing
+  - allows easy online management and transfer to future treasurers 
 - Restructured Budget to better follow spending patterns
 - Plan to produce an AVA directory in 2020
 - Placed AVA Treasurer reports and and spreadsheets on ArborVista.org for better transparency
@@ -19,7 +21,7 @@ date: '16:44 18-01-2020'
 
 ### 2020 Budget Report and Proposal
 
-<iframe width="1150" height="775" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Budget_2020&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="1150" height="775" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Budget_2020P&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 AVA Balance | AVA Liabilities
 --- | ---
