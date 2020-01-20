@@ -53,9 +53,9 @@ __**non-members have always been welcome to attend and participate in the events
   - NextDoor.com website for Arbor Vista subdivision
   - Postcard mailings
 
-##### AVA has a fully funded legal fund if the Board finds it necessary for a legal dispute or expense.
+##### AVA has a fully funded legal fund if the Board finds it necessary for a legal dispute or expense
 
-In the last twenty years the AVA has never had a legal expense against a resident in Arbor Vista. In the 2000s we did fund a environmental engineer to file a complaint with the village of Grayslake against the owbers of the old dog kennel adjoining Arbor Vista.   Eventually the owners of the dog kennel built a larger but more quiet facility.  There has been no issue since the opening of the new facility.
+In the last twenty years the AVA has never had a legal expense against a resident in Arbor Vista. In the 2000s we did fund a environmental engineer to file a complaint with the village of Grayslake against the owners of the old dog kennel adjoining Arbor Vista.   Eventually the owners of the dog kennel built a larger but more quiet facility.  There has been no issue since the opening of the new facility.
 
 ##### AVA periodically produces an Arbor Vista Phone Directory for members
 
