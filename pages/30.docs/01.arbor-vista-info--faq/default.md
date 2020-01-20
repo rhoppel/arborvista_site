@@ -1,10 +1,13 @@
 ---
-title: 'Arbor Vista Info & FAQ'
+title: 'Arbor Vista Info'
 date: '15:34 19-01-2020'
 hide_git_sync_repo_link: false
 ---
 
-! # Arbor Vista Association Information
+!!!! # ![Logo] Arbor Vista Association Information 
+[Logo]: /images/Oak_Tree2_100.png
+
+##### The official address of the AVA is ... **AVA ; PO BOX 433; Grayslake, IL 60030**
 
 ##### Arbor Vista Association (AVA) is a voluntary organization
 
@@ -20,7 +23,7 @@ This is done far more readily by residents as a group through their association 
 
 ##### AVA does not have jurisdiction over any property owners in Arbor Vista
 
-The AVA uses existing law according to the laws of Warren Township, Un-incorporated Lake County ordinances, State of Illinois, and the Federal Government to accomplish its objectives.  It will also access the law pertaining to property adjoining the Arbor Vista subdivision which includes the State of Illinois, village of Grayslake, Lake County Forest Preserve District, and Lake County Township.
+The AVA uses existing law under the jurisdiction of Warren Township, Un-incorporated Lake County ordinances, State of Illinois, and the Federal Government to accomplish its objectives.  It will also use the law pertaining to property adjoining the Arbor Vista subdivision which includes the State of Illinois, Village of Grayslake, Lake County Forest Preserve District, and Lake County Township.
 
 ##### AVA cannot create any laws or regulations over any property owners in Arbor Vista
 
@@ -28,18 +31,30 @@ The AVA uses existing law according to the laws of Warren Township, Un-incorpora
 
 ##### AVA has an annual membership fee of $50 which permits voting in association matters.
 
-##### AVA has no responsibility for monitoring and regulating the Deed restrictions on property withing Arbor Vista subdivision
+##### AVA has no responsibility for monitoring and enforcing the [Arbor Vista Common Deed restrictions](https://files.arborvista.org/docs/AVA_Deed_1.pdf) on property within Arbor Vista subdivision
 
-However, the AVA can use the Deed restrictions as it sees fit to create actions to support the Association and its members.
+However, the AVA can use the Deed restrictions as it sees fit to create actions to support the AVA and its members.
 
-##### AVA has four social functions per year to provide interaction among members
+##### AVA has four social functions per year to provide interaction among members 
 
-   - Annual Meeting (usually in January or February)
-   - Easter Egg Hunt (the Saturday before Easter)
-   - Summer Party (date TBD)
-   - Halloween Party (Sunday Before Halloween)
-   - for locations and time of the event:
-     - Community Bulletin Board
-     - ArborVista.org  Website
-     - NextDoor.com website for Arbor Vista subdivision
-     - Postcard mailings
+__**non-members have always been welcome to attend and participate in the events**__
+
+- Annual Meeting (usually in January or February)
+- Easter Egg Hunt (the Saturday before Easter)
+- Summer Party (date TBD)
+- Halloween Party (Sunday on/before Halloween)
+- for locations and time of the event:
+  - Community Bulletin Board
+  - ArborVista.org  Website
+  - NextDoor.com website for Arbor Vista subdivision
+  - Postcard mailings
+
+##### AVA has a fully funded legal fund if the Board finds it necessary for a legal dispute or expense.
+
+In the last twenty years the AVA has never had a legal expense against a resident in Arbor Vista. In the 2000s we did fund a environmental engineer to file a complaint with the village of Grayslake against the owbers of the old dog kennel adjoining Arbor Vista.   Eventually the owners of the dog kennel built a larger but more quiet facility.  There has been no issue since the opening of the new facility.
+
+##### AVA periodically produces an Arbor Vista Phone Directory for members
+
+- Usually this is every two years
+
+![Logo]

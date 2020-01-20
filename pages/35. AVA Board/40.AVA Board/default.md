@@ -3,13 +3,14 @@ title: 'AVA Board'
 hide_git_sync_repo_link: false
 ---
 
-## Arbor Vista Association Board of Directors
+[Logo]: /images/Oak_Tree2_100.png
+# ![Logo] Arbor Vista Association Board of Directors
 
 !!!! ### Elected Offices
 
 - President (acting): __Karen Hoppel__ (_karhoppel@gmail.com_)
 - Treasurer (acting ): __Richard Hoppel__ (_rhoppel@gmail.com_)
-- Vice President: __Diana Friess__ (_diana.friess@gmail.com_)
+- Vice President (acting): __Diana Friess__ (_diana.friess@gmail.com_)
 - Secretary: __Jennifer Kielp__ (_jennifer@nounces.com_)
 - Sergeant-at-Arms: __Georgia Schuette__ (_glschuette@yahoo.com_)
 
