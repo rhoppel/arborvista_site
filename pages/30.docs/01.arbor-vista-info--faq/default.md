@@ -4,10 +4,14 @@ date: '15:34 19-01-2020'
 hide_git_sync_repo_link: false
 ---
 
-!!!! # ![Logo] Arbor Vista Association Information 
+!!!! # ![Logo] Arbor Vista Association Information
 [Logo]: /images/Oak_Tree2_100.png
 
 ##### The official address of the AVA is ... **AVA ; PO BOX 433; Grayslake, IL 60030**
+
+##### Arbor Vista Subdivision is located in un-incorporated Warren Township, Lake County, IL
+
+The subdivision is located east of US Route 45 @ Arbor Blvd, the only entry which is 1/2 mile south of IL 120. [Arbor Vista on Google Maps](https://www.google.com/maps/@42.3315518,-87.9990561,836m/data=!3m1!1e3)
 
 ##### Arbor Vista Association (AVA) is a voluntary organization
 
@@ -17,7 +21,7 @@ This is done far more readily by residents as a group through their association 
 
 ##### AVA has a [Constitution and Bylaws](https://arborvista.org/docs/constitution) to guide its activities
   
-  see the item on ArborVista.org for this document
+- see the item on ArborVista.org for this document
 
 ##### AVA does not own any common property and therefore has no liability for property related activities
 
