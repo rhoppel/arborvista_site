@@ -1,6 +1,7 @@
 ---
 title: 'Arbor Vista Info & FAQ'
 date: '15:34 19-01-2020'
+hide_git_sync_repo_link: false
 ---
 
 ! # Arbor Vista Association Information
@@ -11,7 +12,7 @@ The Arbor Vista Association is a volunteer group of residents and property owner
 
 This is done far more readily by residents as a group through their association than by individuals acting independently. Independent action however, in behalf of and in support of the association is very important to continuing success.
 
-##### AVA has a Constitution and Bylaws to guide its activities
+##### AVA has a [Constitution and Bylaws](https://arborvista.org/docs/constitution) to guide its activities
   
   see the item on ArborVista.org for this document
 
