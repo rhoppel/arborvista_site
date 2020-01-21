@@ -59,6 +59,6 @@ In the last twenty years the AVA has never had a legal expense against a residen
 
 ##### AVA periodically produces an Arbor Vista Phone Directory for members
 
-- Usually this is every two years
+- Every four years, next publication is Fall 2020
 
 ![Logo]

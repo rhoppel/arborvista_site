@@ -9,11 +9,11 @@ date: '16:44 18-01-2020'
 
 !!!! ### Activities
 
-- transferred AVA Financial & Membership Data from previous treasurer data [PDF]
+- Transferred AVA Financial & Membership Data from previous treasurer data [PDF]
 - 2019 Spending was under budget
 - 2020 Budget is balanced
 - AVA has over $14,000 in cash assets
-- Audit Performed for the years 2016,2017 and 2018 by Georgia Schuette and Richard Hoppel ob 5/23/16 
+- Audit Performed for the years 2016, 2017 and 2018 by Georgia Schuette and Richard Hoppel on 5/23/19
 - Put AVA Finances & Membership Data into Excel Spreadsheet on OneDrive Cloud Service for Real-time viewing
   - allows easy online management and transfer to future treasurers
   - easy way for board members to review always up to date data
