@@ -22,10 +22,11 @@ This is done far more readily by residents as a group through their association 
 ##### AVA has a [Constitution and Bylaws](https://arborvista.org/docs/constitution) to guide its activities
   
 - see the item on ArborVista.org for this document
+- the constitution does not contain any specific responsibilities for the group.   The constitution does not mention the front entrance or the deed restrictions.  The AVA was created before the front entrance was built.  This framework allows the AVA to spend time and resources on those issues it deems important and not as a regulatory or enforcing function as most homeowners association.
 
 ##### AVA does not own any common property and therefore has no liability for property related activities
 
-##### AVA does not have jurisdiction over any property owners in Arbor Vista
+##### AVA does not have jurisdiction over any property owners in Arbor Vista and therefore no enforcement or regulatory power
 
 The AVA uses existing law under the jurisdiction of Warren Township, Un-incorporated Lake County ordinances, State of Illinois, and the Federal Government to accomplish its objectives.  It will also use the law pertaining to property adjoining the Arbor Vista subdivision which includes the State of Illinois, Village of Grayslake, Lake County Forest Preserve District, and Lake County Township.
 

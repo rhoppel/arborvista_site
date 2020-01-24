@@ -1,5 +1,5 @@
 ---
-title: 'AVA Board'
+title: 'AVA Board Members'
 hide_git_sync_repo_link: false
 ---
 
