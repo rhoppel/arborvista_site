@@ -4,6 +4,9 @@ date: '23:19 28-01-2020'
 hide_git_sync_repo_link: false
 ---
 
+[Logo]: /images/Oak_Tree2_100.png
+
+# ![Logo]
 #### TEXT photos of expense receipts to **847-400-7505** (Rick Hoppel mobile) 
 
 **Include:**
