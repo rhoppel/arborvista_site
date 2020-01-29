@@ -28,7 +28,7 @@ date: '16:44 18-01-2020'
 
 AVA Balance | AVA Liabilities
 --- | ---
-<iframe width="750" height="510" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Balance_2019&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe> | <iframe width="650" height="510" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Liabilities_2020&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="750" height="510" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Balance_2020&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe> | <iframe width="650" height="510" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=88FCEE2150B75169%21421072&authkey=%21AEQX_0SXjI8GpIA&em=2&wdAllowInteractivity=False&Item=Liabilities_2020&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 !!!! ### 2019 Checking Register
 
