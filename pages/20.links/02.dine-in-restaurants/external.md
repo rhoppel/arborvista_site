@@ -5,3 +5,4 @@ hide_git_sync_repo_link: false
 date: '20:47 28-04-2020'
 ---
 
+[Dine-In Restaurants](Restaurant List - 03.17_3.pdf)
