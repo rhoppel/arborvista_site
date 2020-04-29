@@ -1,5 +1,5 @@
 ---
-title: 'Local Restaurants'
+title: 'Local Dine-In Restaurants'
 pdf_title: 'Local Dine-In Restaurants'
 display_pdf_title: true
 pdf_url: 'https://files.hoppel.us/arborvista/pdf/Restaurant%20List%20-%2003.17_3.pdf'
