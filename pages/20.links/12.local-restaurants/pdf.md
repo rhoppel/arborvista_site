@@ -7,4 +7,4 @@ date: '20:25 28-04-2020'
 hide_git_sync_repo_link: false
 ---
 
-Your page content goes here.
+Try out the places for a local dine-in experience!
