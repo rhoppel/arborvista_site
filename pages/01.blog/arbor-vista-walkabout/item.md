@@ -11,7 +11,7 @@ feed:
     limit: 10
 ---
 
-[Your page summary goes here.](/walkabout)
+[The first annual Arbor Vista Walkabout will take place Saturday August 15 from 11am to 1pm](/walkabout)
 
 ===
 
