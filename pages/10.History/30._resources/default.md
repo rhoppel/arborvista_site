@@ -26,7 +26,9 @@ Sadly, Laura and Anna both died on May 13, 1860.
  - [Ann Maria Jones (1837-1847)/ first child of Willard](https://www.findagrave.com/memorial/88081755/ann-maria-jones)
  - [DeWitt Jones (1842-1916)/ son of Willard / born in Arbor Vista](https://www.findagrave.com/memorial/24853240/dewitt-lane-jones)
  - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
-  - [Lowell DeWitt Ford (1883-1919)/son of Jennie / murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
+###### Jennie's bio / she and her husband took over the old Jones estate
+  - [Warren Ford (1836-1915)/ husband of Jennie / retired farmer](https://www.findagrave.com/memorial/24811705/warren-d-ford)
+  - [Lowell DeWitt Ford (1883-1919)/son of Jennie & Warren/ murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
 ##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
 - [Liberty 1 & 2 Theatres](http://cinematreasures.org/theaters/3155)
 - [Let’s all go to the movies: The storied history of the Liberty(ville) Theater](https://shelflife.cooklib.org/2017/01/25/lets-all-go-to-the-movies-the-storied-history-of-the-libertyville-theater/)
