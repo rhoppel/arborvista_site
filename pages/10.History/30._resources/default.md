@@ -43,6 +43,7 @@ Sadly, Laura and Anna both died on May 13, 1860.
 - [The Liberty Theater: A Memorable Past and an Uncertain Future](https://www.lhsdoi.com/19150/features/the-liberty-theater-a-memorable-past-and-an-uncertain-future/)
 - [Frederic Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
 In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St. Therese’s Hospital in Waukegan. He was interred at the Ridgewood Cemetery in Des Plaines.
+  - [obituary](https://www.newspapers.com/clip/18933987/chicago-tribune/)
 - [Mary Elizabeth Bakalla Dobe / wife of Frederick](https://www.findagrave.com/memorial/182623466/mary-elizabeth-dobe)
 - [Johanna Dobe / daught of Fredrick & Mary(1896-1969) gravesite]()
 - J Johnson / son of Johanna / whereabouts unknown / made a comment in 2004 concerning his grandfather Grayslake Outdoor theater (see above link)
