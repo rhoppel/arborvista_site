@@ -13,12 +13,22 @@ published: true
 - [The Country Squire closes its doors](https://patch.com/illinois/grayslake/the-country-squire-closes-its-doors)
 - [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
 - [Grayslake Historical Society Museum](https://grayslakehistory.org/)
-- [Gravesite for Willard Jones, original owner of property now known as Arbor Vista](https://www.findagrave.com/memorial/88081931/willard-jones)
+
+##### Willard Jones and family / original owners of proprerty known now as Arbor Vista
+- [Willard Jones,(1799-1872)](https://www.findagrave.com/memorial/88081931/willard-jones)
+- [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones)
+ - [DeWitt Jones (1842-1916)/ son of Willard / first born in Arbor Vista](https://www.findagrave.com/memorial/24853240/dewitt-lane-jones)
+ - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
+  - [Lowell DeWitt Ford (1883-1919)/son of Jennie / murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
 ##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
 - [Liberty 1 & 2 Theatres](http://cinematreasures.org/theaters/3155)
 - [Let’s all go to the movies: The storied history of the Liberty(ville) Theater](https://shelflife.cooklib.org/2017/01/25/lets-all-go-to-the-movies-the-storied-history-of-the-libertyville-theater/)
 - [FB: The Liberty Twin Theater: The Next Generation](https://www.facebook.com/libertytwintheater)
 - [Johanna Dobe Professor of Hematology and Oncology(Funded by the Sale of the Dobe Tree Farm)](The Liberty Twin Theater: The Next Generation)
+- [Grayslake Outdoor Theater](http://cinematreasures.org/theaters/5366)
+- [Frederic Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
+- [Johanna Dobe (1896-1969) gravesite]()
+
 
 [div class="table table-striped"]
 
