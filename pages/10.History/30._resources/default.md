@@ -18,6 +18,7 @@ published: true
 - [Liberty 1 & 2 Theatres](http://cinematreasures.org/theaters/3155)
 - [Let’s all go to the movies: The storied history of the Liberty(ville) Theater](https://shelflife.cooklib.org/2017/01/25/lets-all-go-to-the-movies-the-storied-history-of-the-libertyville-theater/)
 - [FB: The Liberty Twin Theater: The Next Generation](https://www.facebook.com/libertytwintheater)
+- [Johanna Dobe Professor of Hematology and Oncology(Funded by the Sale of the Dobe Tree Farm)](The Liberty Twin Theater: The Next Generation)
 
 [div class="table table-striped"]
 
