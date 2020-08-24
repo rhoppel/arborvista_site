@@ -10,6 +10,9 @@ published: true
 
 #### News Stories
 - [Country Squire closing](https://patch.com/illinois/grayslake/end-of-an-era-a-look-back-at-the-country-squire)
+- [The Country Squire closes its doors](https://patch.com/illinois/grayslake/the-country-squire-closes-its-doors)
+- [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
+- [Grayslake Historical Society Museum](https://grayslakehistory.org/)
 
 [div class="table table-striped"]
 
