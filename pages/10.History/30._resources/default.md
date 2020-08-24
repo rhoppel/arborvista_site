@@ -13,6 +13,7 @@ published: true
 - [The Country Squire closes its doors](https://patch.com/illinois/grayslake/the-country-squire-closes-its-doors)
 - [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
 - [Grayslake Historical Society Museum](https://grayslakehistory.org/)
+- [Gravesite for Willard Jones, original owner of property now known as Arbor Vista](https://www.findagrave.com/memorial/88081931/willard-jones)
 
 [div class="table table-striped"]
 
