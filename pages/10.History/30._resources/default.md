@@ -14,6 +14,10 @@ published: true
 - [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
 - [Grayslake Historical Society Museum](https://grayslakehistory.org/)
 - [Gravesite for Willard Jones, original owner of property now known as Arbor Vista](https://www.findagrave.com/memorial/88081931/willard-jones)
+##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
+- [Liberty 1 & 2 Theatres](http://cinematreasures.org/theaters/3155)
+- [Let’s all go to the movies: The storied history of the Liberty(ville) Theater](https://shelflife.cooklib.org/2017/01/25/lets-all-go-to-the-movies-the-storied-history-of-the-libertyville-theater/)
+- [FB: The Liberty Twin Theater: The Next Generation](https://www.facebook.com/libertytwintheater)
 
 [div class="table table-striped"]
 
