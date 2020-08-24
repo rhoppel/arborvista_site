@@ -53,7 +53,8 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
 - [Johanna Dobe / daught of Fredrick & Mary(1896-1969) gravesite]()
 - J Johnson / son of Johanna / whereabouts unknown / made a comment in 2004 concerning his grandfather Grayslake Outdoor theater (see above link)
 
-
+### Fred Chard
+- [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
 [div class="table table-striped"]
 
 __1800s__ | __1900s__ | __General__ | __Wikipedia__
