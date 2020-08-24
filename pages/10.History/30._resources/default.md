@@ -48,7 +48,8 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
     - [ad for Dobe School of Industrial Design in Popular Science October 1940](https://books.google.com/books?id=jCcDAAAAMBAJ&lpg=PA18&ots=sKEyBDhsop&dq=%22dobe%22%20%22correspondence%22%20school%20of%20industrial%20design&pg=PA18#v=onepage&q&f=true)
     - [author "Practical Mathematics, Strength of Materials-applied Mechanics"](https://www.amazon.com/Practical-Mathematics-Strength-Materials-applied-Mechanics/dp/B003NEKKQY)
 - [Mary Elizabeth Bakalla Dobe / wife of Frederick](https://www.findagrave.com/memorial/182623466/mary-elizabeth-dobe)
-
+    - 1925 moved his school to Grayslake from Chicago/Lawrence & Damon [source: obit]
+    - funeral: chapel at 410 Belvidere Grayslake [source: obit]
 - [Johanna Dobe / daught of Fredrick & Mary(1896-1969) gravesite]()
 - J Johnson / son of Johanna / whereabouts unknown / made a comment in 2004 concerning his grandfather Grayslake Outdoor theater (see above link)
 
