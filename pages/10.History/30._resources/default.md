@@ -25,6 +25,8 @@ The "four dying within a few days" likely refers to Ann (February 14, 1847), Mar
 Sadly, Laura and Anna both died on May 13, 1860.
  - [Ann Maria Jones (1837-1847)/ first child of Willard](https://www.findagrave.com/memorial/88081755/ann-maria-jones)
  - [DeWitt Jones (1842-1916)/ son of Willard / born in Arbor Vista](https://www.findagrave.com/memorial/24853240/dewitt-lane-jones)
+ Dewitt L. Jones was born in the town of Warren, Lake county, September 25, 1842, on the farm entered from the government by his father Willard Jones, in 1835. His father built the log house where the judge was born, partly on the Indian trail running from Chicago to Wisconsin, through Independence Grove (now Libertyville), and Indians passing by were displeased that they had to leave the trail to pass.
+
  - [Orpha Jones (1850-1903 / daughter of Willard](https://www.findagrave.com/memorial/24811705/warren-d-ford)
  - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
 ###### 1887 - Jones estate destroyed by fire
