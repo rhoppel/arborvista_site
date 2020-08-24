@@ -40,11 +40,12 @@ Sadly, Laura and Anna both died on May 13, 1860.
 - [FB: The Liberty Twin Theater: The Next Generation](https://www.facebook.com/libertytwintheater)
 - [Johanna Dobe Professor of Hematology and Oncology(Funded by the Sale of the Dobe Tree Farm)](The Liberty Twin Theater: The Next Generation)
 - [Grayslake Outdoor Theater](http://cinematreasures.org/theaters/5366)
+- [Silver Screen Stories](https://patch.com/illinois/libertyville/silver-screen-stories)
 - [The Liberty Theater: A Memorable Past and an Uncertain Future](https://www.lhsdoi.com/19150/features/the-liberty-theater-a-memorable-past-and-an-uncertain-future/)
 - [Frederic W. Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
 In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St. Therese’s Hospital in Waukegan. He was interred at the Ridgewood Cemetery in Des Plaines.
     - [obituary](https://www.newspapers.com/clip/18933987/chicago-tribune/)
-    - [add for Dobe School of Industrial Design in Popular Science October 1940](https://books.google.com/books?id=jCcDAAAAMBAJ&lpg=PA18&ots=sKEyBDhsop&dq=%22dobe%22%20%22correspondence%22%20school%20of%20industrial%20design&pg=PA18#v=onepage&q&f=true)
+    - [ad for Dobe School of Industrial Design in Popular Science October 1940](https://books.google.com/books?id=jCcDAAAAMBAJ&lpg=PA18&ots=sKEyBDhsop&dq=%22dobe%22%20%22correspondence%22%20school%20of%20industrial%20design&pg=PA18#v=onepage&q&f=true)
     - [author "Practical Mathematics, Strength of Materials-applied Mechanics"](https://www.amazon.com/Practical-Mathematics-Strength-Materials-applied-Mechanics/dp/B003NEKKQY)
 - [Mary Elizabeth Bakalla Dobe / wife of Frederick](https://www.findagrave.com/memorial/182623466/mary-elizabeth-dobe)
 
