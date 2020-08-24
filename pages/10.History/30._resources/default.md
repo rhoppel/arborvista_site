@@ -17,7 +17,14 @@ published: true
 ##### Willard Jones and family / original owners of property known now as Arbor Vista
 - [Willard Jones,(1799-1872)](https://www.findagrave.com/memorial/88081931/willard-jones)
 - [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones)
- - [DeWitt Jones (1842-1916)/ son of Willard / first born in Arbor Vista](https://www.findagrave.com/memorial/24853240/dewitt-lane-jones)
+###### offspring of Willard and Marcia
+"The family at length embraced nine children, but that dread destryoyer, scarlet fever, carried off six of them, four dying within a few days. The living are: De Witt L., whose name heads this sketch; Jennie M., wife of Warren D. Ford, who resides on the old homestead, and Orpha C., who is living in Lake Forest."
+
+The "four dying within a few days" likely refers to Ann (February 14, 1847), Mary (February 9, 1847), Levi (February 10, 1847), and Marcia (March 3, 1847), all of whom died in Feb/March 1847.
+
+Sadly, Laura and Anna both died on May 13, 1860.
+ - [Ann Maria Jones (1837-1847)/ first child of Willard](https://www.findagrave.com/memorial/88081755/ann-maria-jones)
+ - [DeWitt Jones (1842-1916)/ son of Willard / born in Arbor Vista](https://www.findagrave.com/memorial/24853240/dewitt-lane-jones)
  - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
   - [Lowell DeWitt Ford (1883-1919)/son of Jennie / murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
 ##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
