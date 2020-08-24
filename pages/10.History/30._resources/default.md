@@ -8,6 +8,9 @@ published: true
 
 ### Resources
 
+#### News Stories
+- [Country Squire closing](https://patch.com/illinois/grayslake/end-of-an-era-a-look-back-at-the-country-squire)
+
 [div class="table table-striped"]
 
 __1800s__ | __1900s__ | __General__ | __Wikipedia__
