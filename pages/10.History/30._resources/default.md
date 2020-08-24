@@ -32,13 +32,17 @@ Sadly, Laura and Anna both died on May 13, 1860.
   - [Warren Ford (1836-1915)/ husband of Jennie / retired farmer](https://www.findagrave.com/memorial/24811705/warren-d-ford)
   - [Lowell DeWitt Ford (1883-1919)/son of Jennie & Warren/ murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
 ##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
-- [Liberty 1 & 2 Theatres](http://cinematreasures.org/theaters/3155)
+- [Liberty 1 & 2 Theatres / lists very good source material](http://cinematreasures.org/theaters/3155)
 - [Let’s all go to the movies: The storied history of the Liberty(ville) Theater](https://shelflife.cooklib.org/2017/01/25/lets-all-go-to-the-movies-the-storied-history-of-the-libertyville-theater/)
 - [FB: The Liberty Twin Theater: The Next Generation](https://www.facebook.com/libertytwintheater)
 - [Johanna Dobe Professor of Hematology and Oncology(Funded by the Sale of the Dobe Tree Farm)](The Liberty Twin Theater: The Next Generation)
 - [Grayslake Outdoor Theater](http://cinematreasures.org/theaters/5366)
+- [The Liberty Theater: A Memorable Past and an Uncertain Future](https://www.lhsdoi.com/19150/features/the-liberty-theater-a-memorable-past-and-an-uncertain-future/)
 - [Frederic Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
-- [Johanna Dobe (1896-1969) gravesite]()
+In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St. Therese’s Hospital in Waukegan. He was interred at the Ridgewood Cemetery in Des Plaines.
+- [Mary Elizabeth Bakalla Dobe / wife of Frederick](https://www.findagrave.com/memorial/182623466/mary-elizabeth-dobe)
+- [Johanna Dobe / daught of Fredrick & Mary(1896-1969) gravesite]()
+- J Johnson / son of Johanna / whereabouts unknown / made a comment in 2004 concerning his grandfather Grayslake Outdoor theater (see above link)
 
 
 [div class="table table-striped"]
