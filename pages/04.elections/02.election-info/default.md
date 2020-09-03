@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 
 !!!! ### 2020 Elections
 
-#### [Election Ballot Box Dropoff Sites](https://www.lakecountyil.gov/DocumentCenter/View/36233/Drop-Box-Locations-all
+#### [Election Ballot Box Dropoff Sites](https://www.lakecountyil.gov/DocumentCenter/View/36233/Drop-Box-Locations-all)
 
 see link for hours and date availability
 
