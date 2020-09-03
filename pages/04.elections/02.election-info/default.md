@@ -3,6 +3,7 @@ title: Election Info for Arbor Vista
 date: '18:42 06-02-2020'
 hide_git_sync_repo_link: false
 ---
+!!!! ### [Election Box Dropoff Sites](https://www.lakecountyil.gov/DocumentCenter/View/36233/Drop-Box-Locations-all)
 
 !!!! ### 2020 Elections
 #### [Lake County Voter Power website](https://lakecountyil.gov/351/Voter-Power-for-Registered-Voters)
