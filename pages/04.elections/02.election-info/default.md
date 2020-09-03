@@ -7,7 +7,9 @@ hide_git_sync_repo_link: false
 !!!! ### 2020 Elections
 
 #### [Election Ballot Box Dropoff Sites](https://www.lakecountyil.gov/DocumentCenter/View/36233/Drop-Box-Locations-all
+
 see link for hours and date availability
+
 * Gurnee Village Hall - 325 N. O’Plaine Rd., Gurnee, IL 60035)
 * Lake County Fairgrounds - 1060 E. Peterson Rd., Grayslake, IL 60030
 * Lake County Central Permit Facility - 500 W. Winchester Rd., Libertyville, IL 60048
