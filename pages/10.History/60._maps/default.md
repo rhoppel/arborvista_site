@@ -6,6 +6,9 @@ hide_git_sync_repo_link: false
 published: true
 ---
 ## Maps - Arbor Vista is highlighted
+
+#### 1840 Warren Township Mao
+![0]
 #### 1861 Arbor Vista / Southern Warren Township
 ![1]
 #### 1861 Warren Township [Arbor Vista owner: W.Jones]
@@ -37,6 +40,7 @@ published: true
 #### 1939 Grayslake to Arbor Vista
 ![15]
 
+[0]:  https://files.arborvista.org/history/maps/1840_warren_township.png
 [1]:  https://rhoppel.github.io/arborvista_history/maps/1861-arbor_vista.png
 [2]:  https://rhoppel.github.io/arborvista_history/maps/1861-warren_township.png
 [3]:  https://rhoppel.github.io/arborvista_history/maps/1875_LAKE.png
