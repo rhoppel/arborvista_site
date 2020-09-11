@@ -7,7 +7,7 @@ published: true
 ---
 ## Maps - Arbor Vista is highlighted
 
-#### 1840 Warren Township Mao
+#### 1840 Warren Township Map
 ![0]
 #### 1861 Arbor Vista / Southern Warren Township
 ![1]
