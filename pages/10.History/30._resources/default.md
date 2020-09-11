@@ -14,6 +14,8 @@ published: true
 - [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
 - [Grayslake Historical Society Museum](https://grayslakehistory.org/)
 
+##### [Gages Lake History](https://sites.google.com/site/idlegages/history)
+
 ##### Willard Jones and family / original owners of property known now as Arbor Vista
 - [Willard Jones,(1799-1872)](https://www.findagrave.com/memorial/88081931/willard-jones)
 - [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones)
