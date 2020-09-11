@@ -13,6 +13,7 @@ published: true
 - [The Country Squire closes its doors](https://patch.com/illinois/grayslake/the-country-squire-closes-its-doors)
 - [Grayslake Historical Society Sept 2015](https://grayslakehistory.org/wp-content/uploads/Sep-2015.pdf)
 - [Grayslake Historical Society Museum](https://grayslakehistory.org/)
+- [Plank Road/US 120 History](https://patch.com/illinois/grayslake/from-the-grayslake-historical-society-archives-plank-roads)
 
 ##### [Gages Lake History](https://sites.google.com/site/idlegages/history)
 
