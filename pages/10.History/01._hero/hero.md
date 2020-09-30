@@ -9,6 +9,8 @@ hero_image: 1939-7-29-arbor-vista-oak-large.png
 
 ## under construction ...
 
+## [Historical Timeline](https://files.arborvista.org/history/AV%20Timeline.html)
+
 ### if you want to help drop me (Richard Hoppel) a note @ rhoppel@gmail.com
 
 #### photo:  1939 Aerial of the Arbor Vista Estates and grounds / Route 45 & 120 intersection
