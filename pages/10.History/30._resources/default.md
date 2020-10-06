@@ -6,6 +6,8 @@ hide_git_sync_repo_link: false
 published: true
 ---
 
+### [Historical Timeline](https://files.arborvista.org/history/AV%20Timeline.html)
+
 ### Resources
 
 #### News Stories
