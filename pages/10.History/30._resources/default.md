@@ -68,6 +68,7 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
    - Elizabeth (1826–1898)
 - Siblings 
    - [George Hurd Chard](https://www.findagrave.com/memorial/52323894/george-hurd-chard) (1859–1913)
+     - [George Franklin Chard](https://www.findagrave.com/memorial/117414241/george-franklin-chard) (1896-1952) died in small plane crash
    - Adolphus Chard (1865–1938)
     
 
