@@ -62,6 +62,14 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
 [div class="table table-striped"]
 - [mentioned in Grayslake Times - 1933](https://grayslakehistory.org/wp-content/uploads/Jan-2002.pdf)
+- buried in Warren Cemetary
+- Parents
+   - George Chard (1826–1898) owned property to the east of Arbor Vista
+   - Elizabeth (1826–1898)
+- Siblings 
+   - [George Hurd Chard](https://www.findagrave.com/memorial/52323894/george-hurd-chard) (1859–1913)
+   - Adolphus Chard (1865–1938)
+    
 
 __1800s__ | __1900s__ | __General__ | __Wikipedia__
 :--  | :---- | :--- | :---
