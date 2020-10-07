@@ -60,6 +60,7 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
 
 ### Fred Chard
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
+  - [Everett Earl Chard](https://www.findagrave.com/memorial/44006014/everett-earl-chard) (1915-1933)
 [div class="table table-striped"]
 - [mentioned in Grayslake Times - 1933](https://grayslakehistory.org/wp-content/uploads/Jan-2002.pdf)
 - buried in Warren Cemetary
