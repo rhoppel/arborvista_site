@@ -63,7 +63,7 @@ In 1960 on Saturday, June 18 at the age of 87, Frederick Dobe passed away at St.
     - funeral: chapel at 410 Belvidere Grayslake [source: obit]
 - [Johanna Dobe / daughter of Fredrick & Mary(1896-1969) gravesite]()
 - [son()TBD & wife]
-  - Joan Dobe Johnson (1963-present)/  / Elgin, IL / made a comment in 2004 concerning his grandfather Grayslake Outdoor theater (see above link)
+  - Joan Dobe Johnson (1963-present)/  / Elgin, IL /
 
 ##### Business owned by Fred Dobe/owner of the Dobe tree Farm now Arbor Vista
 - [Liberty 1 & 2 Theatres / lists very good source material](http://cinematreasures.org/theaters/3155)
