@@ -19,6 +19,8 @@ published: true
 
 ##### [Gages Lake History](https://sites.google.com/site/idlegages/history)
 
+### Willard Jones 
+
 ##### Willard Jones and family / original owners of property known now as Arbor Vista
 - [Willard Jones,(1799-1872)](https://www.findagrave.com/memorial/88081931/willard-jones)
 - [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones)
