@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 published: true
 ---
 
-### [Historical Timeline](https://files.arborvista.org/history/AV_Timeline.mht)
+### [Historical Timeline](https://files.arborvista.org/history/Arbor%20Vista%20Timeline.html)
 
 ### Resources
 
