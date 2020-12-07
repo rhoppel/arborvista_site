@@ -26,6 +26,7 @@ access:
 * [Meetings](https://files.hoppel.us/arborvista/Meetings/)
 * [Logos & Graphics](https://files.hoppel.us/arborvista/Meetings/)
 * [Maps](https://files.hoppel.us/arborvista/maps/)
+* [Guidelines for Board Responsibilities](https://docs.google.com/document/d/1zxUzCzGESGHjogMX8ttmMBSMn99pRzm-KAYyHZIrM8I/edit?usp=sharing)
 
 !!!! ### Board Meeting Minutes
 
