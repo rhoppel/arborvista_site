@@ -21,12 +21,13 @@ access:
 * [Financial Records](https://1drv.ms/x/s!AmlRt1Ah7vyImdlQk0Ymc1hYJzXoWA)
 * [Payment Reimbursement Form](https://files.hoppel.us/arborvista/Treasurer/Paymentrequest.pdf)
 
-!!!! ### AVA Records (files maintained by R Hoppel)
+!!!! ### AVA Documents (files maintained by R Hoppel)
 * [AVA files](https://files.hoppel.us/arborvista/)
 * [Meetings](https://files.hoppel.us/arborvista/Meetings/)
 * [Logos & Graphics](https://files.hoppel.us/arborvista/Meetings/)
 * [Maps](https://files.hoppel.us/arborvista/maps/)
 * [Guidelines for Board Responsibilities](https://docs.google.com/document/d/1zxUzCzGESGHjogMX8ttmMBSMn99pRzm-KAYyHZIrM8I/edit?usp=sharing)
+* [AVA Stationary Template](https://docs.google.com/document/d/1HcjgQmoxiO8i6AJv22xCW9dBwe1S8ngpilz5RWBzbTw/edit?usp=sharing)
 
 !!!! ### Board Meeting Minutes
 
