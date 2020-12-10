@@ -11,8 +11,9 @@ hide_git_sync_repo_link: false
 !!!! - __Current Status:__ 33 Signs Installed (__25%__ of neighborhood) [Project Cost - $4500 for 80 homes ~ $56/home; sign $24/each]
 !!!! - __Objective:__ Install clearly visible home number with street name signs; preferably near the driveway entrance of each home through-out the neighborhood.
 !!!! - __Homes Eligible for a Sign:__  AVA Homeowners/Members upon __request__ by member
- - __Project Manager:__ Richard Hoppel [rhoppel@gmail.com; mobile 847-400-7505]
- - __Installation Manager:__ Mike Herzog [mikezog@ameritech.net; mobile 847-826-0851]
+
+##### - __Project Manager:__ Richard Hoppel [rhoppel@gmail.com; mobile 847-400-7505]
+##### - __Installation Manager:__ Mike Herzog [mikezog@ameritech.net; mobile 847-826-0851]
 
 !! - __Request a 911 Sign:__ <a href="mailto:rhoppel@gmail.com">  send an email to Richard Hoppel @rhoppel@gmail.com</a>
 - If are an AVA member (**__check your current status below__**)

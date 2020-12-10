@@ -14,7 +14,7 @@ hide_git_sync_repo_link: false
 !!! - Double-Sided Aluminum sign is Highly Visible at Night
 !!! - Mounting post made of composite material for durability
 !!! - the sign post should be mounted on back side of post towards same-sided oncoming traffic for best visibility for opposite-side traffic (see photos)
-!!! - **Free** for <mark>AVA Members</mark> in good standing at `No Cost`
+!!! - **Free** for <mark>AVA Members</mark> in good standing for `FREE!!!`
 !!! - __JULIE__ will be contacted by Installation Manager if necessary
 
 
