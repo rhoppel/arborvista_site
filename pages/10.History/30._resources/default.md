@@ -12,6 +12,7 @@ published: true
 - [roots of Lake County ](http://sites.rootsweb.com/~ilzgs/lchist.html)
 - [Zion Genealogical Society of Lake County](http://sites.rootsweb.com/~ilzgs/index.html)
 - [Lake County Genealogy Links](http://sites.rootsweb.com/~ilzgs/lakelink.html)
+- [Obtain Original Land Sale Records](https://cyberdriveillinois.com/departments/archives/databases/data_lan.html)
 
 #### News Stories
 - [Country Squire closing](https://patch.com/illinois/grayslake/end-of-an-era-a-look-back-at-the-country-squire)
