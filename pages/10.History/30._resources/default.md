@@ -42,7 +42,9 @@ Sadly, Laura and Anna both died on May 13, 1860.
    - [George Jones (1870-1934) / son of DeWitt](https://www.findagrave.com/memorial/16887162/george-w-jones)
      - [Lewis Gates Jones](https://www.findagrave.com/memorial/145921403/lewis-gates-jones)
  - [Orpha Jones (1850-1903 / daughter of Willard](https://www.findagrave.com/memorial/24811705/warren-d-ford)
- - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
+   - owned Arbor Vista Northern portion as of 1885
+ - [Jennie M Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
+  - owned property on southern portion of original Willard Jones Estate
 ###### 1887 - Jones estate destroyed by fire
 ###### Jennie's bio / she and her husband took over the old Jones estate / not sure when they departed
   - [Warren Ford (1836-1915)/ husband of Jennie / retired farmer](https://www.findagrave.com/memorial/24811705/warren-d-ford)
