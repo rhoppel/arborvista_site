@@ -45,10 +45,11 @@ Sadly, Laura and Anna both died on May 13, 1860.
    - owned Arbor Vista Northern portion as of 1885
  - [Jennie M Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
   - owned property on southern portion of original Willard Jones Estate
-###### 1887 - Jones estate destroyed by fire
+###### 1887 - Jones estate house destroyed by fire [Orpha left property to go to Colorado]
 ###### Jennie's bio / she and her husband took over the old Jones estate / not sure when they departed
   - [Warren Ford (1836-1915)/ husband of Jennie / retired farmer](https://www.findagrave.com/memorial/24811705/warren-d-ford)
   - [Lowell DeWitt Ford (1883-1919)/son of Jennie & Warren/ murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
+    - born in Arbor Vista
   
 ### Fred Chard [owner 1890+ ~1923]
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
