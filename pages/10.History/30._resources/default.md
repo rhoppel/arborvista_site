@@ -19,11 +19,11 @@ published: true
 
 ##### [Gages Lake History](https://sites.google.com/site/idlegages/history)
 
-### Willard Jones 
+### Willard Jones Family [original owner from 1835 - 1890+ ???
 
 ##### Willard Jones and family / original owners of property known now as Arbor Vista
 - [Willard Jones,(1799-1872)](https://www.findagrave.com/memorial/88081931/willard-jones)
-- [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones)
+- [Marcia Baxter Jones (1809-1887) / wife of Willard](https://www.findagrave.com/memorial/88081911/marcia-d-jones) lived at homestead till her death
 ###### offspring of Willard and Marcia
 "The family at length embraced nine children, but that dread destryoyer, scarlet fever, carried off six of them, four dying within a few days. The living are: De Witt L., whose name heads this sketch; Jennie M., wife of Warren D. Ford, who resides on the old homestead, and Orpha C., who is living in Lake Forest."
 
@@ -38,23 +38,33 @@ Sadly, Laura and Anna both died on May 13, 1860.
  - [Orpha Jones (1850-1903 / daughter of Willard](https://www.findagrave.com/memorial/24811705/warren-d-ford)
  - [Jennie Jones Ford (1849-1938)/ daughter of Willard](https://www.findagrave.com/memorial/24811291/jennie-m-ford)
 ###### 1887 - Jones estate destroyed by fire
-###### Jennie's bio / she and her husband took over the old Jones estate
+###### Jennie's bio / she and her husband took over the old Jones estate / not sure when they departed
   - [Warren Ford (1836-1915)/ husband of Jennie / retired farmer](https://www.findagrave.com/memorial/24811705/warren-d-ford)
   - [Lowell DeWitt Ford (1883-1919)/son of Jennie & Warren/ murdered by wife who then committed suicide](https://www.findagrave.com/memorial/24811309/lowell-dewitt-ford)
   
-### Fred Chard
+### Fred Chard [owner 1890+ ~1923]
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
-  - [Everett Earl Chard](https://www.findagrave.com/memorial/44006014/everett-earl-chard) (1915-1933)
+
 [div class="table table-striped"]
 - [mentioned in Grayslake Times - 1933](https://grayslakehistory.org/wp-content/uploads/Jan-2002.pdf)
 - buried in Warren Cemetary
 - Parents
-   - George Chard (1826–1898) owned property to the east of Arbor Vista
+   - George Chard (1826–1898) owned property to the west of Arbor Vista (Praire Crossing)
    - Elizabeth (1826–1898)
 - Siblings 
    - [George Hurd Chard](https://www.findagrave.com/memorial/52323894/george-hurd-chard) (1859–1913)
      - [George Franklin Chard](https://www.findagrave.com/memorial/117414241/george-franklin-chard) (1896-1952) died in small plane crash
    - Adolphus Chard (1865–1938)
+ - Children
+  - [Everett Earl Chard](https://www.findagrave.com/memorial/44006014/everett-earl-chard) (1915-1933) 
+  - [Warren Adolphus Chard 1908-1992](https://www.geni.com/people/Warren-Chard/6000000017876550171) mayor Grayslake 1966-1973
+    - wife  Pauline Florence (Sutton) Chard
+      - [Everett Chard])() [obituary](https://www.granitefallsnews.com/article/20100107/NEWS/301079941)
+      - Lillian (Lawrence) Beshel of Short Hills, New Jersey 
+      - Florence Dacey of Cottonwood
+      - Philip (Stephanie) Chard of Waukesha, Wisconsin
+      - Douglas (Janet) Chard of Highlands Ranch, Colorado;
+  - Martha Chard
 
 ### Frederick Dobe
 - [Frederic W. Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
