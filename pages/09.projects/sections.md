@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: Projects
 published: true
 hide_page_title: true
 show_sidebar: false
@@ -9,10 +9,13 @@ content:
     order:
         by: folder
         dir: asc
-    limit: 0    
+    limit: 0
     taxonomy:
-        filter: [view1,view2]
+        filter:
+            - view1
+            - view2
 ---
+
 ## [AV 911 Driveway Signs](/projects/av-911-signs)
 [comment]: <> ([plugin:page-inject](/projects/av-911-signs/_project))
 

@@ -1,5 +1,5 @@
 ---
-title: 'History'
+title: History
 published: true
 hide_page_title: true
 show_sidebar: false
@@ -9,9 +9,11 @@ content:
     order:
         by: folder
         dir: asc
-    limit: 0    
+    limit: 0
     taxonomy:
-        filter: [view1,view2]
+        filter:
+            - view1
+            - view2
 ---
 
 # Sections
