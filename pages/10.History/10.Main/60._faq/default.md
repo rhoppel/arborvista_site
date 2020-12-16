@@ -1,9 +1,9 @@
 ---
-title: 'AV History'
+title: AV History
 menu: FAQ
 image_align: center
 hide_git_sync_repo_link: false
-published: false
+published: true
 ---
 
 ## FAQ
