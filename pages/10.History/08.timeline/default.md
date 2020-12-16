@@ -12,7 +12,7 @@ hide_git_sync_repo_link: false
 - Legal: ROBERT BARTLETTS ARBOR VISTA
 - Tax Code Area: 08066 - WARREN TWP 066
 ### Pre - 1818
--  Illinois River [Potawatomi](https://en.wikipedia.org/wiki/Potawatomi) Indians until August 1829, when economic and resource pressures forced the tribe to sell much of their land in northern Illinois to the U.S. government for \$12,000 cash, an additional \$12,000 in goods, plus an annual delivery of 50 barrels of salt.
+-  Illinois River [Potawatomi](https://en.wikipedia.org/wiki/Potawatomi) Indians until August 1829, when economic and resource pressures forced the tribe to sell much of their land in northern Illinois to the U.S. government for $12,000 cash, an additional $12,000 in goods, plus an annual delivery of 50 barrels of salt.
 ### 1818 
 - [Illinois](https://en.wikipedia.org/wiki/Illinois) became the 21st U.S. state
 ### 1829
@@ -27,7 +27,6 @@ hide_git_sync_repo_link: false
 ### 1837
 - Independence Grove name changed to [Libertyville](https://en.wikipedia.org/wiki/Libertyville%2C_Illinois)
 - [Libertyville](https://en.wikipedia.org/wiki/Libertyville%2C_Illinois) Post Office established
-- \
 ### 1839
 - [Libertyville](https://en.wikipedia.org/wiki/Libertyville%2C_Illinois) re-named Burlington
 - Burlington/Libertyville named county seat
@@ -68,7 +67,7 @@ hide_git_sync_repo_link: false
 ### 1864
 - DeWitt Jones(22) enlists in Company D, 146th Illinois Infantry,
 ### 1865
-- American Civil Ware ends
+- American Civil War ends
 - DeWitt Jones was an escort for the President Lincoln funeral cortege
 - DeWitt Jones returns from Civil War
 ### 1870
@@ -103,7 +102,6 @@ hide_git_sync_repo_link: false
 - Jennie Jones Ford/daughter of Willard and her husband Warren Ford take possession of Jones Homestead
 ### 1890
 - Census
-- \
 ### 1895
 - [Grayslake](https://en.wikipedia.org/wiki/Grayslake%2C_Illinois) incorporated as a village
 - Frame school house moved to Whitney Street and became village hall
