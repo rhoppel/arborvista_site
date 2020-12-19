@@ -2,7 +2,7 @@
 title: 'Elections'
 published: true
 hide_page_title: true
-show_sidebar: false
+show_sidebar: true
 sections_nav_align: left
 content:
     items: '@self.children'
