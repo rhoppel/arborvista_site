@@ -11,68 +11,231 @@ body_classes: header-fixed
 
 ## Proposed Slate of Candidates
 
-
-**AVA Board Meeting Minutes**
-
- 
-
-Date: December 08, 2020
-
-Time: 7:00 PM
-
-Location: Zoom Meeting
-
-Board Members Present: Karen Hoppel,  Rick Hoppel, Jennifer Kielp, Paula Glassel, Mike Herzog, Diana Friess, Georgia Schuette  Guest: Heidi Olson
-
-Meeting came to order at 7:00PM
-
- 
-
-OLD BUSINESS:
+# 2021 Arbor Vista Association Annual Meeting Agenda
 
 
-
-*   Reviewed and approved 09-29-20  AV Board Meeting Minutes 
-*   Reviewed and approved Treasurer Report - 72 paid households
-*   Directory - Paula will continue working on it. Printing to be done by Vogue Printers
-*   Arborvista.org - Rick has added more history of the subdivision to website
-*   Committee Updates  					
-
-    Welcome  - Paula has welcomed all new residents																				911 Sign Project - 33 signs installed, 10 more interested, $1,000 spend on project to date
+## **Date:       ,  2021  9:00 A.M – Via Zoom**
 
 
-    Directory - Completed and mailed
+<table>
+  <tr>
+   <td>
+<ul>
+
+<li>
+</li>
+</ul>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+<ul>
+
+<li>
+</li>
+</ul>
+   </td>
+   <td colspan="2" ><strong><em>Committees</em></strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><em>President</em>
+   </td>
+   <td><strong>Karen Hoppel</strong>
+   </td>
+   <td>
+   </td>
+   <td><em>Social</em>
+   </td>
+   <td><strong>Jennifer Kielp</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><em>Vice President</em>
+   </td>
+   <td><strong>Diana Friess</strong>
+   </td>
+   <td>
+   </td>
+   <td><em>Welcoming</em>
+   </td>
+   <td><strong>Paula Glassel</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><em>Treasurer</em>
+   </td>
+   <td><strong>Rick Hoppel</strong>
+   </td>
+   <td>
+   </td>
+   <td><em>Buildings & Grounds</em>
+   </td>
+   <td><strong>Mike Herzog</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><em>Secretary</em>
+   </td>
+   <td><strong>Jennifer Kielp</strong>
+   </td>
+   <td>
+   </td>
+   <td><em>Member at Large</em>
+   </td>
+   <td><strong>Andy Friess</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td><em>Sergeant at Arms</em>
+   </td>
+   <td><strong>Georgia Schuette</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
 
 
-    AV History - Rick to continue working on project.  Heidi has Township map and photo(s) she will supply to Rick. $100 spent on Grayslake history books
+
+
+*   =Attendance
+
+
+## Pledge of Allegiance
+
+
+## Introductions - Board & all attending meeting.
+
+
+## OLD BUSINESS
 
 
 
-## **NEW BUSINESS**
+*   State of Arbor Vista - 2020 Accomplishments
+*   Review & Approve 2020 Annual Meeting Minutes -Secretary, Jennifer Kielp
+*   Review & Approve 2020 Treasurer Report (Rick Hoppel)
+*   Committee Updates
+*   Welcome Committee  - Paula Glassel
+*   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
+*   AV History
+
+
+## NEW BUSINESS
 
 
 
-*   Vic Taylor Memorial - Rick to send check, Mike to send letter
-*   Fred Behrendt Memorial - Mike to talk to Angie Hill regarding who to send memorial to
-*   Annual Meeting Post Card - Rick & Heidi to work on design. Target mail date of 1/15
-*   Date of Virtual Annual Meeting - 2/13, 10am
-*   Zoom Link - Paula will confirm link
-*   Tentative Annual Meeting Agenda
-*   State of Arbor Vista
-*   Slate of candidates
-    *   President - Diana Friess
-    *   Vice President - Heidi Olson
-    *   Treasurer - Rick Hoppel
-    *   Secretary - Jennifer Kielp
-    *   Sergeant at Arms - Georgia Shuette
-    *   Building & Grounds - Mike Herzog
-    *   Social - Jennifer Kielp
-    *   Welcoming - Paula Glassel
-    *   Board Member at Large - Andy Friess, Karen Hoppel
+*   Review & Approve 2021 Budget
+*   
+*   
+*   
+*   **Questions & Answers**
+*   **Election of Officers (Proposed Slate)**
 
- 
+<table>
+  <tr>
+   <td>
+<em>President</em>
+   </td>
+   <td>
+   </td>
+   <td><strong><em>Appointed Positions</em></strong>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Vice President</em>
+   </td>
+   <td>
+   </td>
+   <td><em>Social</em>
+   </td>
+   <td><strong>Jennifer Kielp</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Treasurer</em>
+   </td>
+   <td><strong>Rick Hoppel</strong>
+   </td>
+   <td><em>Welcoming</em>
+   </td>
+   <td><strong>Paula Glassel</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Secretary</em>
+   </td>
+   <td><strong>Jennifer Kielp</strong>
+   </td>
+   <td><em>Buildings & Grounds</em>
+   </td>
+   <td><strong>Mike Herzog</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Sergeant at Arms</em>
+   </td>
+   <td><strong>Georgie Schuette</strong>
+   </td>
+   <td><em>Board Member at Large</em>
+   </td>
+   <td><strong>Andy Friess</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><em>Board Memeber at Large</em>
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
 
 
+**2021 Events			Annual Meeting: Zoom   9:00 am**
 
-*   Next Board Meeting - 2/9, 7pm - Zoom trial run
-*   Meeting Adjourned at 8:15pm 
+
+<table>
+  <tr>
+   <td><em>Easter Egg Hunt</em>
+   </td>
+   <td><strong>Saturday April 3, 10 am</strong>
+   </td>
+   <td><em>Picnic/Walk about</em>
+   </td>
+   <td><strong>Saturday in Summer </strong>
+   </td>
+  </tr>
+  <tr>
+   <td><em>Adopt-A-Highway</em>
+   </td>
+   <td><strong>Saturday April 24  9 am</strong>
+   </td>
+   <td><em>Halloween Party</em>
+   </td>
+   <td><strong>Sunday October 31</strong>
+   </td>
+  </tr>
+</table>
+
