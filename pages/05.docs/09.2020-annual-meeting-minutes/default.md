@@ -48,21 +48,15 @@ hide_git_sync_repo_link: false
 
 ### Election of Officers  to [AVA Board](https://arborvista.org/%20ava%20board/ava%20board)
 
+    Unanimous vote except for 2 “NO” 
 
-    Unanimous vote except for 4 “NO” including 2 proxy votes casted by Kathleen Huizenga.
-
-
-
-*    President – Karen Hoppel
+*   President – Karen Hoppel
 *   Vice President – Diana Friess
 *   Treasurer – Rick Hoppel
 *   Secretary – Jennifer Kielp
 *   Sergeant at Arms- Georgia Schuette
 
-
 ### Assigned Board Positions
-
-
 
 *   Welcoming – Paula Glassel
 *   Member at Large – Andy Friess
