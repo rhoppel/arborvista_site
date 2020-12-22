@@ -7,13 +7,17 @@ body_classes: header-fixed
 
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
 
+<!-- Copy and paste the converted output. -->
+
+
+
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
 
 ## **Date:       ,  2021  9:00 A.M – Via Zoom **
 
 
-## **arborvista.org [http://bit.ly/ava2021](http://bit.ly/ava2021)**
+## **This doc on arborvista.org [http://bit.ly/ava2021](http://bit.ly/ava2021)**
 
 
 <table>
@@ -120,7 +124,7 @@ body_classes: header-fixed
 ## Pledge of Allegiance
 
 
-## Introductions - Board & all attending meeting.
+## Introductions - Board & all those attending the meeting.
 
 
 ## OLD BUSINESS
@@ -128,8 +132,8 @@ body_classes: header-fixed
 
 
 *   State of Arbor Vista - 2020 Accomplishments
-*   Review & Approve 2020 Annual Meeting Minutes -Secretary, Jennifer Kielp
-*   Review & Approve 2020 Treasurer Report (Rick Hoppel)
+*   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-annual-meeting-minutes) -Secretary, Jennifer Kielp
+*   Review & Approve[ 2020 Treasurer Report](https://arborvista.org/docs/2021-treasurer-report) (Rick Hoppel)
 *   Committee Updates
 *   Welcome Committee  - Paula Glassel
 *   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
@@ -140,7 +144,7 @@ body_classes: header-fixed
 
 
 
-*   Review & Approve 2021 Budget
+*   Review & Approve [2021 Proposed Budget](https://arborvista.org/docs/2021-proposed-budget)
 *   
 *   
 *   
