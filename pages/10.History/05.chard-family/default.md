@@ -14,6 +14,7 @@ hide_git_sync_repo_link: false
 
 [div class="table table-striped"]
 - [mentioned in Grayslake Times - 1933](https://grayslakehistory.org/wp-content/uploads/Jan-2002.pdf)
+- born across the street (current Route 45)
 - buried in Warren Cemetary
 - Parents
    - George Chard (1826–1898) owned property to the west of Arbor Vista (Praire Crossing)
