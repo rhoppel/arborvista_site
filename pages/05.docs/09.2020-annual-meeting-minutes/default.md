@@ -35,14 +35,12 @@ hide_git_sync_repo_link: false
     Guest Speaker – Peter Trage on the Invasive Species, Buckthorn.
 
 ### New Business
-    •         2020 Directories will be distributed to those who have 2019 and 2020 dues paid.  Corrections/updates need to be given to board.
-    •        Acknowledgement of Retired Board Members, Joe Trassati, JB Morrow, Nancy Trassati and Cindy Bingley
-    •        Rick Hoppel presented 2020 budget.  Use of the Discretionary Fund was reviewed. Motion was made to accept. The motion was seconded and passed.
-    •        Lauren Alexander made a motion to allocate $2,000 for 911 Address Signs Project.  Motion was seconded but failed to pass (21 yes, 23 no). (Karen Hoppel cast 14 “NO” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes.)
-
+- 2020 Directories will be distributed to those who have 2019 and 2020 dues paid.  Corrections/updates need to be given to board.
+- Acknowledgement of Retired Board Members, Joe Trassati, JB Morrow, Nancy Trassati and Cindy Bingley
+- Rick Hoppel presented 2020 budget.  Use of the Discretionary Fund was reviewed. Motion was made to accept. The motion was seconded and passed.
+- Lauren Alexander made a motion to allocate $2,000 for 911 Address Signs Project.  Motion was seconded but failed to pass (21 yes, 23 no). (Karen Hoppel cast 14 “NO” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes.)
     •        Sue Simpson made motion to allocate $4,500 for 911 Address Signs Project for those residents  in good standing.  Motion was seconded and passed (43 yes, 5 no). (Karen Hoppel cast 14 “YES” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes).
-
-    •        Kathleen Huizenga read letter from JB Morrow.      
+    •        Kathleen Huizenga read letter from JB Morrow. 
 [JB’s LETTER](https://files.hoppel.us/arborvista/Meetings/2020/JB_letter_to_AVA.pdf)
 
 
