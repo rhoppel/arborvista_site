@@ -1,0 +1,216 @@
+body {
+	padding: 50px 0;
+	/*	font-size: 19px; */
+	font-size: 1.2em;
+	font-family: Roboto;
+	/*	font-family: HelveticaNeueETW01-55Rg; */
+	background: seagreen;
+}
+
+article {
+	margin: 0 auto;
+	width: 800px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: "Fjalla One";
+	font-size: 3.0em;
+	line-height: 0.928em;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-style: normal;
+	color: navy;
+}
+
+h2 {
+	font-family: "Fjalla One";
+	font-size: 1.9em;
+	line-height: 0.928em;
+	text-align: center;
+	text-transform: none;
+	font-weight: 400;
+	font-style: normal;
+	color: navy;
+	padding: 0.254em;
+}
+
+h3 {
+	font-size: 1.526em;
+	font-family: Anaheim;
+	line-height: 0.931em;
+	margin: 0px 0px 0.0em 0px;
+	color: navy;
+	padding: 0.254em;
+}
+
+h4 {
+	font-size: 1.226em;
+	font-family: Anaheim;
+	line-height: 1.0m;
+	margin: 0px 0px 0.0em 0px;
+	color: whitesmoke;
+	padding: 0.254em;
+}
+
+h5 {
+	font-size: 1.0em;
+	font-family: Anaheim;
+	line-height: 1.0em;
+	margin: 0px 0px 0.0em 0px;
+	color: whitesmoke;
+}
+
+h6 {
+	font-family: "Fjalla One";
+	font-size: 1.9em;
+	line-height: 0.928em;
+	text-align: center;
+	text-transform: none;
+	font-weight: 400;
+	font-style: normal;
+	color: #ed7d31;
+	padding: 0.254em;
+}
+
+p.intro {
+	color: black;
+	font-family: Anaheim;
+	font-size: 1.0em;
+	border-top: 1px;
+	border-bottom: 1px;
+	padding: 0.254em;
+	text-align: center;
+	border-style: solid hidden;
+	line-height: 1.5em;
+	margin: 1.038em 0px;
+	font-weight: 400;
+	font-style: normal;
+}
+
+li {
+	color: silver;
+	background-color: #424242;
+	font-weight: normal;
+}
+
+strong{
+	font-weight: bolder;
+	color: white;
+}
+.comment {
+	color: slategray;
+}
+
+
+/*
+table, th, td {
+	border: 1px solid black;
+}
+*/
+
+table {
+	width: 100%;
+	text-align: center;
+}
+
+th,thead {
+	background-color: #ed7d31;
+	color: white;
+}
+
+tr {
+	background-color: #424242;
+	color: white;
+}
+tr:nth-child(even){
+	background-color: #2F2F2F;
+}
+
+.tardis {
+	width: 30%;
+}
+
+p {
+	font-size: 1.0em;
+	line-height: 1.421em;
+	color: rgba(51, 51, 51, 0.80);
+	margin: 0px 0px 1.421em 0px;
+	font-family: Anaheim;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	color: silver;
+}
+
+p.pullquote {
+	padding-left: 10px;
+	border-style: solid;
+	border-left-width: 3px;
+	color: rgba(242, 113, 113, 1);
+	font-size: 1.9em;
+	line-height: 1.421em;
+	margin: 0px 0px 1.421em 0px;
+	font-family: Aladin;
+	font-weight: 400;
+	font-style: normal;
+}
+
+p.author, h1.author {
+	text-align: center;
+	font-size: 3em;
+	letter-spacing: 2px;
+	margin: 0.25em 0px 0.25em 0px;
+	color: black;
+	text-transform: unset;
+}
+
+@media only screen and (max-width: 900px) {
+	article {
+		margin: 0 auto;
+		width: 100%;
+		padding: 0 2em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	body {
+		font-size: 90%;
+	}
+
+	h1 {
+		font-size: 3.75em;
+		line-height: 0.929em;
+	}
+
+	p {
+		font-size: 16px;
+	}
+
+	p.pullquote {
+		font-size: 16px;
+	}
+}
+
+/* unvisited link */
+a:link {
+	color: whitesmoke;
+}
+
+/* visited link */
+a:visited {
+	color: #B785D0;
+}
+
+/* mouse over link */
+a:hover {
+	color: lightseagreen;
+}
+
+/* selected link */
+a:active {
+	color: red;
+}

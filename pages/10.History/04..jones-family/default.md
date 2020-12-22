@@ -3,6 +3,11 @@ title: 'Jones family'
 date: '21:06 15-12-2020'
 hide_git_sync_repo_link: false
 ---
+<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
+
+<br>
+<br>
+
 ### Willard Jones Family [original owner from 1835 - 1890+ ???
 
 ##### Willard Jones and family / original owners of property known now as Arbor Vista

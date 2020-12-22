@@ -3,6 +3,11 @@ title: 'Chard family'
 date: '21:08 15-12-2020'
 hide_git_sync_repo_link: false
 ---
+<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
+
+
+<br>
+<br>
 
 ### Fred Chard [owner 1890+ ~1923]
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)

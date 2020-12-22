@@ -14,3 +14,4 @@ page-inject:
     processed_content: true
 ---
 
+<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>

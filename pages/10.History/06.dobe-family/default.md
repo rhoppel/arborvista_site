@@ -3,7 +3,16 @@ title: 'Dobe family'
 date: '21:08 15-12-2020'
 hide_git_sync_repo_link: false
 body_classes: 'header-dark header-fixed stick-footer'
+page-inject:
+    active: true
+    enable: true
+    processed_content: true
 ---
+
+<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
+
+<br>
+<br>
 
 ### Frederick Dobe
 - [Frederic W. Dobe (1873-1960) gravesite](https://www.findagrave.com/memorial/182623581/frederick-william-dobe)
