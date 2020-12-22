@@ -22,27 +22,24 @@ hide_git_sync_repo_link: false
     •        Karen Hoppel provided the state of Arbor Vista
 
 ### Old Business
-    •        Jennifer Kielp reviewed the minutes from the 2019 AVA annual meeting.  Motion was made to approve minutes.  Motion was seconded and passed.
-    •        Rick Hoppel reviewed the [2019 Treasurer Report](https://arborvista.org/docs/2020-annual-meeting-treasurer-report).  Motion was made to accept report.  Motion was seconded and passed.
-    •        Welcome Committee – Paula Glassel welcomed 3 new owners during the year, two homes for sale currently.
-    •        Buildings & Grounds – Karen Hoppel gave update, signs at front entrance have been repaired.  New garland and lights was purchased.
-    •        Rick Hoppel reviewed [911 Address Signs Pilot Program](https://arborvista.org/projects/av-911-signs). Will resume installing signs once ground thaws.
+- Jennifer Kielp reviewed the minutes from the 2019 AVA annual meeting.  Motion was made to approve minutes.  Motion was seconded and passed.
+- Rick Hoppel reviewed the [2019 Treasurer Report](https://arborvista.org/docs/2020-annual-meeting-treasurer-report).  Motion was made to accept report.  Motion was seconded and passed.
+- Welcome Committee – Paula Glassel welcomed 3 new owners during the year, two homes for sale currently.
+- Buildings & Grounds – Karen Hoppel gave update, signs at front entrance have been repaired.  New garland and lights was purchased.
+- Rick Hoppel reviewed [911 Address Signs Pilot Program](https://arborvista.org/projects/av-911-signs). Will resume installing signs once ground thaws.
 
-### 
-     Guest Speaker – Katie Larson: [Alliance for the Great Lake](https://greatlakes.org/)
+### Guest Speaker – Katie Larson: [Alliance for the Great Lake](https://greatlakes.org/)
 
-### 
-    Guest Speaker – Peter Trage on the Invasive Species, Buckthorn.
+### Guest Speaker – Peter Trage on the Invasive Species, Buckthorn.
 
 ### New Business
 - 2020 Directories will be distributed to those who have 2019 and 2020 dues paid.  Corrections/updates need to be given to board.
 - Acknowledgement of Retired Board Members, Joe Trassati, JB Morrow, Nancy Trassati and Cindy Bingley
 - Rick Hoppel presented 2020 budget.  Use of the Discretionary Fund was reviewed. Motion was made to accept. The motion was seconded and passed.
 - Lauren Alexander made a motion to allocate $2,000 for 911 Address Signs Project.  Motion was seconded but failed to pass (21 yes, 23 no). (Karen Hoppel cast 14 “NO” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes.)
-    •        Sue Simpson made motion to allocate $4,500 for 911 Address Signs Project for those residents  in good standing.  Motion was seconded and passed (43 yes, 5 no). (Karen Hoppel cast 14 “YES” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes).
-    •        Kathleen Huizenga read letter from JB Morrow. 
-[JB’s LETTER](https://files.hoppel.us/arborvista/Meetings/2020/JB_letter_to_AVA.pdf)
-
+- Sue Simpson made motion to allocate $4,500 for 911 Address Signs Project for those residents  in good standing.  Motion was seconded and passed (43 yes, 5 no). (Karen Hoppel cast 14 “YES” proxy votes. Kathleen Huizenga cast 2 “NO” proxy votes).
+- Kathleen Huizenga read letter from JB Morrow. 
+- [JB’s LETTER](https://files.hoppel.us/arborvista/Meetings/2020/JB_letter_to_AVA.pdf)
 
 ### Election of Officers  to [AVA Board](https://arborvista.org/%20ava%20board/ava%20board)
 
