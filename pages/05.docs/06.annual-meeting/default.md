@@ -5,7 +5,7 @@ hide_git_sync_repo_link: false
 body_classes: header-fixed
 ---
 
-<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
+<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
 <!-- Copy and paste the converted output. -->
 
