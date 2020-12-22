@@ -6,9 +6,6 @@ body_classes: header-fixed
 ---
 
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
-<!-- Copy and paste the converted output. -->
-
-
 
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
