@@ -6,7 +6,7 @@ body_classes: header-fixed
 ---
 
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
-Shortcut to Agenda http://bit.ly/ava_2021
+Shortcut to Agenda http://bit.ly/ava2021
 
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
