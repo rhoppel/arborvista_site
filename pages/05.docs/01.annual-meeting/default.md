@@ -6,12 +6,14 @@ body_classes: header-fixed
 ---
 
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
-Shortcut to Agenda http://bit.ly/ava2021
 
-# 2021 Arbor Vista Association Annual Meeting Agenda
+<!-- Copy and paste the converted output. -->
 
 
-## **Date:       ,  2021  9:00 A.M – Via Zoom**
+<h2>2021 Arbor Vista Association Annual Meeting Agenda</h2>
+
+
+<p>**Date:       ,  2021  9:00 A.M – Via Zoom [arborvista.org [http://bit.ly/ava2021](http://bit.ly/ava2021)]**
 
 
 <table>
@@ -114,14 +116,14 @@ Shortcut to Agenda http://bit.ly/ava2021
 
 *   =Attendance
 
-
-## Pledge of Allegiance
-
-
-## Introductions - Board & all attending meeting.
+<h3>Pledge of Allegiance</h3>
 
 
-## OLD BUSINESS
+<h3>Introductions - Board & all attending meeting.</h3>
+
+
+<h3>OLD BUSINESS</h3>
+
 
 
 
@@ -133,8 +135,8 @@ Shortcut to Agenda http://bit.ly/ava2021
 *   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
 *   AV History
 
+<h3>NEW BUSINESS</h3>
 
-## NEW BUSINESS
 
 
 
@@ -202,7 +204,7 @@ Shortcut to Agenda http://bit.ly/ava2021
    </td>
    <td>
    </td>
-   <td><em>Board Memeber at Large</em>
+   <td><em>Board Member at Large</em>
    </td>
    <td>
    </td>
