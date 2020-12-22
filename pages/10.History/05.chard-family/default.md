@@ -1,18 +1,14 @@
 ---
-title: 'Chard family'
+title: 'Fred Chard family'
 date: '21:08 15-12-2020'
 hide_git_sync_repo_link: false
 ---
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
-
-
 <br>
 <br>
 
 ### Fred Chard [owner 1890+ ~1923]
 - [Fred Chard (1876-1945)](https://www.findagrave.com/memorial/38520892/fred-george-chard)
-
-[div class="table table-striped"]
 - [mentioned in Grayslake Times - 1933](https://grayslakehistory.org/wp-content/uploads/Jan-2002.pdf)
 - born across the street (current Route 45)
 - buried in Warren Cemetary
