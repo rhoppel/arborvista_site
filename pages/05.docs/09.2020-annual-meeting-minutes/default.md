@@ -7,10 +7,9 @@ hide_git_sync_repo_link: false
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 # 2020 Arbor Vista Association Annual Meeting Minutes 
 
-**Date:  **January 25, 2020
-**Time**: 9:00 AM
-** Location:**  Warren Township Center, 17801 W Washington St, Gurnee, IL 60031
-** Board Members Present: ** Karen Hoppel, Diana Friess, Rick Hoppel, Jennifer Kielp, Georgia Schuette, Paula Glassel, Andy Friess, Mike Herzog, Cindy Bingley
+- **Date:  **January 25, 2020  **Time**: 9:00 AM
+- ** Location:**  Warren Township Center, 17801 W Washington St, Gurnee, IL 60031
+- ** Board Members Present: ** Karen Hoppel, Diana Friess, Rick Hoppel, Jennifer Kielp, Georgia Schuette, Paula Glassel, Andy Friess, Mike Herzog, Cindy Bingley
 
 ##  Meeting came to order at 9:11 AM
 - Meeting began with the Pledge of Allegiance.
