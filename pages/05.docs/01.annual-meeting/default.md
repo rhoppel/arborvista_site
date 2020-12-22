@@ -7,12 +7,6 @@ body_classes: header-fixed
 
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
 
-# 2021 Annual Meeting
-
-## Proposed Budget
-
-## Proposed Slate of Candidates
-
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
 
