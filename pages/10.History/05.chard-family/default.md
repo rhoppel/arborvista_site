@@ -14,8 +14,8 @@ hide_git_sync_repo_link: false
   - buried in Warren Cemetary
 - wife [Lillian M Hutchinson Chard (1880-1967)](https://www.findagrave.com/memorial/38520921/lillian-m-chard)
    - Children
-     - [Everett Earl Chard](https://www.findagrave.com/memorial/44006014/everett-earl-chard) \(1915-1933\) 
-     - [Warren Adolphus Chard 1908-1992](https://www.geni.com/people/Warren-Chard/6000000017876550171) mayor Grayslake 1966-1973  
+     - [Everett Earl Chard](https://www.findagrave.com/memorial/44006014/everett-earl-chard) 1915-1933
+     - [Warren Adolphus Chard 1908-1992](https://www.geni.com/people/Warren-Chard/6000000017876550171) mayor Grayslake 1966-1973
       - wife  Pauline Florence (Sutton) Chard
         - [Everett Chard])() [obituary](https://www.granitefallsnews.com/article/20100107/NEWS/301079941)
         - Lillian (Lawrence) Beshel of Short Hills, New Jersey 
