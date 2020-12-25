@@ -20,9 +20,9 @@ hide_git_sync_repo_link: false
 (h-5) A member may vote:
 
 - 1) by proxy executed in writing by the member or by his or her duly authorized attorney in fact, provided, however, that the __proxy bears the date of execution.__ Unless the community instruments or the written proxy itself provide otherwise, proxies will not be valid for more than 11 months after the date of its execution; or
-- (2) by submitting an association-issued ballot in person at the election meeting; or 
+- 2) by submitting an association-issued ballot in person at the election meeting; or 
 - 3) by submitting an association-issued ballot to the association or its designated agent by mail or other means of delivery specified in the declaration or
-- (4) by any electronic or acceptable technological means.
+- 4) by any electronic or acceptable technological means.
 
 Votes cast under any paragraph of this subsection (h-5) are valid for the purpose of establishing a quorum.
 

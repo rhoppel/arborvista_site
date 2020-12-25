@@ -3,12 +3,14 @@ title: 'Dobe Estate'
 date: '10:56 25-12-2020'
 hide_git_sync_repo_link: false
 ---
+<link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
 
 ## ARBOR VISTA HISTORY 
 
 Tucked away in Arbor Vista Association memorabilia was an article written about the Dobe Estate. Arbor Vista subdivision is situated on what was once this magnificent estate. The estate house, gatehouse and carriage house still grace our area. 
 
 ## THE DOBE ESTATE 
+
 
 The 200 acres of planted forests were crisscrossed with riding trails and stepping stone walkways. Two gardeners invested 34 years in developing and maintaining the grounds. Their quarters, the Gatehouse, was the envy of their peers. 50,000 Elm trees were planted on the bare cropland. The nearby estate grounds boasted 125 varieties of trees. 
 
