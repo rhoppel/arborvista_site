@@ -14,4 +14,4 @@ hide_git_sync_repo_link: false
 - [Gurnee & Warren Township](https://photos.app.goo.gl/p1SvTRm2bqmEhZdt8)
 - [Grayslake - A Historical Portrait](https://photos.app.goo.gl/Ugt9MzDcYXyMAahC6)
 
-![Dobe Book](Dobe_Mathematics_Materials_Mechanics_tn.jpg)
+![Dobe Book](/images/books_tn/Dobe_Mathematics_Materials_Mechanics_tn.jpg)
