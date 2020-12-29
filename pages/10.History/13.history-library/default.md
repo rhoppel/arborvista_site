@@ -15,7 +15,7 @@ hide_git_sync_repo_link: false
 - [Grayslake - A Historical Portrait](https://photos.app.goo.gl/Ugt9MzDcYXyMAahC6)
 
 ![History of Warren Township](History_Warren_Township_tn.jpg)
-![Dobe - Mechanics, Materials, Mechanics](Dobe_Mathematics_Materials_Mechanics _tn.jpg)
+![Dobe - Mechanics, Materials, Mechanics](Dobe_Mathematics_Materials_Mechanics_tn.jpg)
 ![Stories of Grayslake](Stories_of_Grayslake_tn.jpg)
 ![Grayslake & Avon Township](Grayslake_Images_tn.jpg)
 ![Gurnee & Warren Township](Gurnee_Warren_Township_Images_tn.jpg)
