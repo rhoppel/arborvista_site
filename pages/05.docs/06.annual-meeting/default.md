@@ -7,17 +7,20 @@ body_classes: header-fixed
 
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
-<!-- Copy and paste the converted output. -->
-
-
 
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
 
-## **Date:       ,  2021  9:00 A.M – Via Zoom **
+## **Date:       ,  2021  11:00 A.M – Via Zoom **
 
 
 ## **This doc on arborvista.org [http://bit.ly/ava2021](http://bit.ly/ava2021)**
+
+
+## [Click HERE for Zoom Meeting](https://us04web.zoom.us/j/78730053772?pwd=K08vdUx2dkFtSCszMU5ySjkxbWpaQT09)   & enter   Passcode: **7W3zCX**
+
+
+### OR start Zoom APP for Meeting ID: **787 3005 377**2  Passcode: **7W3zCX**
 
 
 <table>
@@ -241,4 +244,5 @@ body_classes: header-fixed
    </td>
   </tr>
 </table>
+
 
