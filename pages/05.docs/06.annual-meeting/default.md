@@ -11,7 +11,7 @@ body_classes: header-fixed
 # 2021 Arbor Vista Association Annual Meeting Agenda
 
 
-## **Date:       ,  2021  11:00 A.M – Via Zoom **
+## **Date:  February 13, 2021  10:00 A.M – Via Zoom **
 
 
 ## **This doc on arborvista.org [http://bit.ly/ava2021](http://bit.ly/ava2021)**
@@ -124,9 +124,6 @@ body_classes: header-fixed
 *   =Attendance
 
 
-## Pledge of Allegiance
-
-
 ## Introductions - Board & all those attending the meeting.
 
 
@@ -136,11 +133,10 @@ body_classes: header-fixed
 
 *   State of Arbor Vista - 2020 Accomplishments
 *   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-annual-meeting-minutes) -Secretary, Jennifer Kielp
-*   Review & Approve[ 2020 Treasurer Report](https://arborvista.org/docs/2021-treasurer-report) (Rick Hoppel)
+*   Review & Approve[ 2021 Treasurer Report](https://arborvista.org/docs/2021-treasurer-report) (Rick Hoppel)
 *   Committee Updates
 *   Welcome Committee  - Paula Glassel
 *   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
-*   AV History
 
 
 ## NEW BUSINESS
@@ -148,10 +144,10 @@ body_classes: header-fixed
 
 
 *   Review & Approve [2021 Proposed Budget](https://arborvista.org/docs/2021-proposed-budget)
-*   
-*   
-*   
-*   **Questions & Answers**
+*   If interested in obtaining Covid19 vaccine, register here:[ https://allvax.lakecohealth.org](https://allvax.lakecohealth.org)
+*   Election of new officers
+*   Questions & Answers
+*   **Guest Speaker: Heide Olson, long-time resident - History of Arbor Vista**
 *   **Election of Officers (Proposed Slate)**
 
 <table>
@@ -159,7 +155,7 @@ body_classes: header-fixed
    <td>
 <em>President</em>
    </td>
-   <td>
+   <td><strong>Diana Friess</strong>
    </td>
    <td><strong><em>Appointed Positions</em></strong>
    </td>
@@ -169,7 +165,7 @@ body_classes: header-fixed
   <tr>
    <td><em>Vice President</em>
    </td>
-   <td>
+   <td><strong>Heide Olson</strong>
    </td>
    <td><em>Social</em>
    </td>
@@ -213,13 +209,13 @@ body_classes: header-fixed
    </td>
    <td><em>Board Member at Large</em>
    </td>
-   <td>
+   <td><strong>Karen Hoppel</strong>
    </td>
   </tr>
 </table>
 
 
-**2021 Events			Annual Meeting: Zoom   9:00 am**
+**2021 Events			Annual Meeting: Zoom   10:00 am**
 
 
 <table>
