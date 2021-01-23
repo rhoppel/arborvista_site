@@ -24,4 +24,10 @@ content:
 
 # Sections
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie iaculis nisl sed interdum. Praesent mi nisl, efficitur in felis vel, molestie sollicitudin eros. Mauris urna quam, euismod nec lacinia non, dignissim eu odio. Donec nisl nibh, facilisis at nisl vitae, porttitor hendrerit libero. Integer vel neque in ante condimentum malesuada. Mauris dictum nunc enim, non tincidunt arcu tincidunt vel. Aliquam gravida, massa id semper tincidunt, tellus sapien accumsan tortor, in placerat arcu justo ac urna. Vestibulum blandit ultrices neque, eget congue tortor vehicula id.
+I am Richard Hoppel, a resident of Arbor Vista since 1998.   I have an interest in history which has led me down this path to documenting the history of Arbor Vista back through the years.  This website currently is a collection of my notes and research activities.  
+
+Feel free to browse around.
+
+If you would like to participate or comment on my information, you can contact me at rhoppel@gmail.com
+
+Cheers!
