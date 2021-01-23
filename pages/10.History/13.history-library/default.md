@@ -20,6 +20,7 @@ Cover | Book | Author | Year | Notes
 [![7]][Grayslake & Avon Township] |[Grayslake & Avon Township] | Charlotte K. Renehan | 2007
 [![4]][Gurnee & Warren Township] | [Gurnee & Warren Township]  | Warren Township Historical Society | 2005
 ![6] | 200 Objects That Made History in Lake and McHenry County
+[![8]][Dobe Tree Farm] | [Dobe Tree Farm] | Frederic Dobe | 1941 
 
 
 [AVA History Library]: https://photos.app.goo.gl/AaDfwQA7BU7S54jw8
@@ -29,6 +30,7 @@ Cover | Book | Author | Year | Notes
 [Grayslake & Avon Township]: https://photos.app.goo.gl/iRZM7qMJfP6ZczR66
 [Gurnee & Warren Township]: https://photos.app.goo.gl/p1SvTRm2bqmEhZdt8
 [Grayslake - A Historical Portrait]: https://photos.app.goo.gl/Ugt9MzDcYXyMAahC6
+[Dobe Tree Farm]: /images/Dobe_Tree_Farm.pdf
 
 
 [1]: History_Warren_Township_tn.jpg
@@ -38,4 +40,5 @@ Cover | Book | Author | Year | Notes
 [5]: Grayslake_Portrait_tn.jpg
 [6]: 200_Objects_tn.jpg
 [7]: Grayslake_Avon_Township_Images_tn.jpg
+[8]: Dobe_Tree_Farm_tn.jpg
 
