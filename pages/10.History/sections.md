@@ -28,6 +28,6 @@ I am Richard Hoppel, a resident of Arbor Vista since 1998.   I have an interest 
 
 Feel free to browse around.
 
-If you would like to participate or comment on my information, you can contact me at rhoppel@gmail.com
+If you would like to participate or comment on my information, you can contact me at <rhoppel@gmail.com>
 
 Cheers!
