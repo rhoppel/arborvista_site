@@ -20,7 +20,7 @@ At its zenith in the 1930s, the staff included the gardeners , 3 houseboys, a ma
 
 A stone bridge and a dam created a small lake nearby, and a pond and fountain were fed by their own wells. Evergreens were planted along the state highway. 
 
-Fredrick and Mary Dobe wanted space and beauty in their lives. He had immigrated from Germany to Chicago "at 17 with 17 cents" and soon mastered financial success in America. His Fredrick Dobe School of Industrial Design became a leading correspondence school of the day. He was later to move its main office onto the estate at the corner of Pine and Arbor. He closed that enterprise in 1948, to semi—retire and to attend to his other investments, primarily real estate. Between 1932 and 1948, Dobe established a Tree Farm, selling and ista11ing plant materials. 
+Fredrick and Mary Dobe wanted space and beauty in their lives. He had immigrated from Germany to Chicago "at 17 with 17 cents" and soon mastered financial success in America. His Fredrick Dobe School of Industrial Design became a leading correspondence school of the day. He was later to move its main office onto the estate at the corner of Pine and Arbor. He closed that enterprise in 1948, to semi—retire and to attend to his other investments, primarily real estate. Between 1932 and 1948, Dobe established a Tree Farm, selling and istalling plant materials. 
 
 In 1957, Dobe sold the bulk of the acreage for subdivision. Bartlett started development in 1960, and now many families enjoy the "arbored vista" of Fredrick Dobe's countryside dream. 
 
