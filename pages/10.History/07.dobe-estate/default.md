@@ -3,6 +3,7 @@ title: 'Dobe Estate'
 date: '10:56 25-12-2020'
 hide_git_sync_repo_link: false
 ---
+
 <link id="linkstyle" rel='stylesheet' href='/css/av_history.css'/>
 
 ## ARBOR VISTA HISTORY 
