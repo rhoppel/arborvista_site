@@ -62,6 +62,13 @@ __1961__ | [m][1961av] [f][1961av_f] [b][1961av_b] [t][1961av_t] [tb][1961av_tb]
 __1974__ | [m][1974av] [f][1974av_f] [t][1974av_t] [b][1974av_b] [tb][1974av_tb]| [m][1974avp] [f][1974avp_f] [t][1974avp_t] [b][1974avp_b] [tb][1974avp_tb]| [map][1974lp] [map_f][1974lp_f] |[map][1974w] [map_f][1974w_f]  |
 __2017__ | [map][2017av]| [map][2017avp] | [map][2017lp] | [map][2017w] | [map][2017l] 
 
+### Legend
+- "map" or "m" [map with Arbor Vista outline]
+- "map_f" or "f" [adds current road and water features]
+- "b" or "bldg" [adds present day buildings]
+- "t" [adds tax boundaries]
+- "tb" [add both tax boundaries and present day buildings]
+
 [1840av]:       https://files.arborvista.org/maps/lc/1840-mo-av.png
 [1840av_f]:     https://files.arborvista.org/maps/lc/1840-mo-av-f.png
 [1840avp]:      https://files.arborvista.org/maps/lc/1840-mo-av_plus.png
