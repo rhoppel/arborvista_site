@@ -19,7 +19,7 @@ __1800s__ | __1900s__ | __General__ | __Wikipedia__
 [1840 Warren Tsp Plat]       | [1939 IL Aerial Photo database TIF/jpeg] | [AV Maps] | 
 [1851 Avon Township]         | [1919 Indian Trails by  Albert F. Scharf]            |  [IL State Archive] |
 [1885 Avon Township]         |                                          | [IL Plats] |
-[1885 Libertyville Township] |                                          | [IL Landowner DB] |
+[1885 Libertyville Township] |                                          | [IL Landowner DB] | 
 
 [AV Archives]: https://github.com/rhoppel/arborvista_history/
 [AV Maps]:     https://github.com/rhoppel/arborvista_history/tree/master/maps
