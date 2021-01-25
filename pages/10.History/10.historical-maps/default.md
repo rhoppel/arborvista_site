@@ -63,7 +63,7 @@ __1974__ | [m][1974av] [f][1974av_f] [t][1974av_t] [b][1974av_b] [tb][1974av_tb]
 __2017__ | [map][2017av]| [map][2017avp] | [map][2017lp] | [map][2017w] | [map][2017l] 
 
 ### Legend
-- "map" or "m" [map with Arbor Vista outline]
+- "map" or "m" [map with Arbor Vista purple outline]
 - "map_f" or "f" [adds current road and water features]
 - "b" or "bldg" [adds present day buildings]
 - "t" [adds tax boundaries]
