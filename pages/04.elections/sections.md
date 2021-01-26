@@ -1,5 +1,5 @@
 ---
-title: 'Elections'
+title: Elections
 published: true
 hide_page_title: true
 show_sidebar: true
@@ -9,9 +9,11 @@ content:
     order:
         by: folder
         dir: asc
-    limit: 0    
+    limit: 0
     taxonomy:
-        filter: [view1,view2]
+        filter:
+            - view1
+            - view2
 ---
 
 # Elections
