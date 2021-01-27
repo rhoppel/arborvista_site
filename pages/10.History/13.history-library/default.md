@@ -30,7 +30,7 @@ Cover | Book | Author | Year | Notes
 [Grayslake & Avon Township]: https://photos.app.goo.gl/iRZM7qMJfP6ZczR66
 [Gurnee & Warren Township]: https://photos.app.goo.gl/p1SvTRm2bqmEhZdt8
 [Grayslake - A Historical Portrait]: https://photos.app.goo.gl/Ugt9MzDcYXyMAahC6
-[Dobe Tree Farm]: /images/Dobe_Tree_Farm.pdf
+[Dobe Tree Farm]: https://files.arborvista.org/history/Dobe_Tree_Farm.pdf
 
 
 [1]: History_Warren_Township_tn.jpg
