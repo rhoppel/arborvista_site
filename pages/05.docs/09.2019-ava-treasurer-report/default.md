@@ -1,11 +1,12 @@
 ---
-title: '2020 Annual Meeting Treasurer Report'
+title: '2019 AVA Treasurer Report'
 date: '16:44 18-01-2020'
+hide_git_sync_repo_link: false
 ---
 
 [Logo]: /images/Oak_Tree2_100.png
 
-# ![Logo] 2020 AVA Annual Meeting Treasurer Report
+# ![Logo] 2019 AVA  Meeting Treasurer Report
 
 !!!! ### Activities
 
