@@ -6,7 +6,7 @@ hide_git_sync_repo_link: false
 
 [Logo]: /images/Oak_Tree2_100.png
 
-# ![Logo] 2019 AVA  Meeting Treasurer Report
+# ![Logo] 2019 AVA  Treasurer Report
 
 !!!! ### Activities
 
