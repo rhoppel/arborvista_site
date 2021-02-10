@@ -1,5 +1,5 @@
 ---
-title: '2020 Annual Meeting Minutes'
+title: '2020 AVA Annual Meeting Minutes'
 date: '22:22 21-12-2020'
 hide_git_sync_repo_link: false
 ---
