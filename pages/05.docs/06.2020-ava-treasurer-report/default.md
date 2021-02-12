@@ -9,4 +9,4 @@ hide_git_sync_repo_link: false
 <br>
 # [2020 AVA Treasurer Report](https://docs.google.com/document/d/e/2PACX-1vQCx5WPrDRdoNQF4rRU44DniD8WENGHF2fSP5caYONgGq4ubKg-yKyFjK2GAXOlbeMSqzda3Lup4r9j/pub)
 
-<iframe  width="850" height="1200" src="https://docs.google.com/document/d/e/2PACX-1vQCx5WPrDRdoNQF4rRU44DniD8WENGHF2fSP5caYONgGq4ubKg-yKyFjK2GAXOlbeMSqzda3Lup4r9j/pub?embedded=true"></iframe>
+<iframe  width="900" height="1200" src="https://docs.google.com/document/d/e/2PACX-1vQCx5WPrDRdoNQF4rRU44DniD8WENGHF2fSP5caYONgGq4ubKg-yKyFjK2GAXOlbeMSqzda3Lup4r9j/pub?embedded=true"></iframe>
