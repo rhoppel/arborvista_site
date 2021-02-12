@@ -12,12 +12,16 @@ feed:
 published: false
 ---
 
-<div class="bg-success">The 2020 Annual Arbor Vista Association is coming up soon</div>
+<div class="bg-success">The 2021 Annual Arbor Vista Association is coming up soon</div>
 
 ===
-- Date & Time: 9:00 am  Saturday January 25th with coffee, orange, and donuts available at 8:40am. 
-- Location: [Warren Township Center; 17801 W. Washington St., Gurnee, IL 60031](https://www.google.com/maps/place/State+Bank+of+the+Lakes/@42.3439045,-88.0220601,18.26z/data=!4m5!3m4!1s0x880f9a8589b5f94f:0x94c24434af8aadb3!8m2!3d42.3440682!4d-88.0215557)
-- Guest speaker: Katie Larson, Alliance for the Great Lakes 
+- Date & Time: 10:00 am  Saturday February 13th 
+- 9:00am at the Arbor Vista Bulletin Board - 
+  -  coffee, orange, and donuts available at 
+  - drop off your dues
+- Location:  your computer using [ZOOM](http://bit.ly/ava2021)  
+##- Click on this to start ZOOM  http://bit.ly/ava2021
+- Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
 ===
 
