@@ -22,7 +22,7 @@ published: true
 - Location:  your computer or phone using Zoom
 ##- Click on this to start [ZOOM ](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
 ### [Agenda](http://bit.ly/ava2021)  http://bit.ly/ava2021
-- Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
+## - Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
 ---
 
