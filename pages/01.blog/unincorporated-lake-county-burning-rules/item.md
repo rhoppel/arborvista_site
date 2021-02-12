@@ -9,6 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+published: false
 ---
 
 Lake County has modified the standard burning rules for unicorporate Lake County which includes Arbor Vista subdivision.   Recreational fires (less thant 3x3x3) are OK any day of the week but must not include yard waste or building materials.   See the notice for details
