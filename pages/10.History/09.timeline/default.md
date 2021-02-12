@@ -178,6 +178,8 @@ hide_git_sync_repo_link: false
 - [32176 N Pine - Leo DeMeyer Home](http://www.tax.lakecountyil.gov/datalets/datalet.aspx?mode=residential&sIndex=2&idx=2&LMparent=20) Built
 - ![](files/Image%20%5B9%5D.jpg)
 - ![](files/Image%20%5B8%5D.png)
+### 1965
+- A home owned by Mr. & Mrs. George Williams burned resulting in a total loss.  It was later demolished.
 ### 1990
 - [Almond Marsh Nature](https://www2.illinois.gov/dnr/INPC/Pages/Area2LakeAlmondMarsh.aspx) Preserve established
 ### 2007
