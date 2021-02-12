@@ -23,7 +23,7 @@ published: true
 ### 10:00 am  ZOOM meeting!
 - Location:  your computer or phone using Zoom
 
-##- [Click here to start Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
+## [Click here to start Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
 
 #### review the agenda, 2020 Treasurer report, and 2021 Budget proposal
 - [Agenda](http://bit.ly/ava2021) or type  http://bit.ly/ava2021 in your browser
