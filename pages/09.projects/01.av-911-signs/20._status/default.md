@@ -8,7 +8,7 @@ hide_git_sync_repo_link: false
 
 !!!! ## __AV 911 Driveway Signs Project Plan__ [For AVA Members Only]
 
-!!!! - __Current Status:__ 33 Signs Installed (__25%__ of neighborhood) [Project Cost - $4500 for 80 homes ~ $56/home; sign $24/each]
+!!!! - __Current Status:__ 33 Signs Installed (__25%__ of neighborhood) 12 Signs Pending to be installed [Project Cost - $4500 for 80 homes ~ $56/home; sign $24/each]
 !!!! - __Objective:__ Install clearly visible home number with street name signs; preferably near the driveway entrance of each home through-out the neighborhood.
 !!!! - __Homes Eligible for a Sign:__  AVA Homeowners/Members upon __request__ by member
 
