@@ -12,6 +12,9 @@ show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
+published: false
+feed:
+    limit: 10
 ---
 
 - [Results](https://results.enr.clarityelections.com/IL/Lake/91424/Web02.222611/#/) 
