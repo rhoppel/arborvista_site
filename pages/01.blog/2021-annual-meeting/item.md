@@ -25,7 +25,9 @@ published: true
 
 ##- [Click here to start Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
 
-#### review the agenda @ [Agenda](http://bit.ly/ava2021) or type  http://bit.ly/ava2021 in your browser
+#### review the agenda, 2020 Treasurer report, and 2021 Budget proposal
+- [Agenda](http://bit.ly/ava2021) 
+- or type  http://bit.ly/ava2021 in your browser
 
 #### - Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
