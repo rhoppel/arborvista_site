@@ -28,7 +28,7 @@ published: true
 #### review the agenda, 2020 Treasurer report, and 2021 Budget proposal
 - [Agenda](http://bit.ly/ava2021) or type  http://bit.ly/ava2021 in your browser
 
-#### Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
+#### Guest speaker: Heide Olson, AV resident on the __"History of Arbor Vista"__
 
 ---
 
