@@ -25,9 +25,6 @@ published: true
 - Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
 ===
-
-- Agenda: http://bit.ly/ava2021
-
 starting at 9am to 9:45 Coffee and doughnuts will be available at the Arbor Vista bulletin board all of our residents.  
 You can also use the opportunity to drop off your 201 dues.
 
