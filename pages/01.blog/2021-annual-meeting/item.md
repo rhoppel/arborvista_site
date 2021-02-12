@@ -17,7 +17,7 @@ published: true
 ===
 ## Saturday February 13th
 ### 9:00am at the Arbor Vista Bulletin Board 
--  coffee and donuts available for everybody!
+-  coffee and donuts available for everybody! 
 - drop off your dues
 
 ### 10:00 am  ZOOM meeting!
@@ -26,8 +26,7 @@ published: true
 ##- [Click here to start Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
 
 #### review the agenda, 2020 Treasurer report, and 2021 Budget proposal
-- [Agenda](http://bit.ly/ava2021) 
-- or type  http://bit.ly/ava2021 in your browser
+- [Agenda](http://bit.ly/ava2021) or type  http://bit.ly/ava2021 in your browser
 
 #### - Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
