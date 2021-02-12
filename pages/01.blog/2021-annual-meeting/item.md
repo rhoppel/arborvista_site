@@ -1,5 +1,5 @@
 ---
-title: '2021 Annual Meeting Feb. 13'
+title: '2021 Annual Meeting Feb. 13 10am'
 date: '15:53 12-02-2021'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -16,8 +16,8 @@ published: true
 
 ===
 ###- 9:00am at the Arbor Vista Bulletin Board 
-####  -  coffee, orange, and donuts available
-####  - drop off your dues
+-  coffee and donuts available for everybody!
+- drop off your dues
 ### - 10:00 am  Saturday February 13th 
 - Location:  your computer or phone using Zoom
 ##- Click on this to start [ZOOM ](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
