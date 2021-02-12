@@ -16,7 +16,7 @@ published: true
 
 ===
 ## Saturday February 13th
-### 9:00am at the Arbor Vista Bulletin Board 
+### 9:00 am at the Arbor Vista Bulletin Board 
 -  coffee and donuts available for everybody! 
 - drop off your dues
 
