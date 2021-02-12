@@ -19,10 +19,14 @@ published: true
 ### 9:00am at the Arbor Vista Bulletin Board 
 -  coffee and donuts available for everybody!
 - drop off your dues
+
 ### 10:00 am  ZOOM meeting!
 - Location:  your computer or phone using Zoom
+
 ##- [Click here for Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09)
+
 ### [Agenda](http://bit.ly/ava2021)  http://bit.ly/ava2021
+
 #### - Guest speaker: Heide Olson, AV resident on the history of Arbor Vista
 
 ---
