@@ -126,7 +126,7 @@ body_classes: header-fixed
 
 
 *   State of Arbor Vista - 2020 Accomplishments
-*   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-annual-meeting-minutes) -Secretary, Jennifer Kielp
+*   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
 *   Review & Approve[ 2020 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
 *   Committee Updates
 *   Welcome Committee  - Paula Glassel
