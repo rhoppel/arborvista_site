@@ -22,5 +22,7 @@ media_order: paypal.jpg
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+![PayPal QR code](https://files.arborvista.org/logo/paypal_qr_code.png)
+
 Now you can pay your Year Dues using PayPal
 
