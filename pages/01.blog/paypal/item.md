@@ -9,8 +9,8 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+media_order: paypal.jpg
 ---
-
 
 <div class="bg-success">Arbor Vista uses Paypal for Dues Payment</div>
 ===
@@ -19,4 +19,3 @@ feed:
 
 Now you can pay your Year Dues using PayPal
 
-![paypal](https://files.arborvista.org/logo/paypal.jpg)
