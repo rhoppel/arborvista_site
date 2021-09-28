@@ -13,7 +13,10 @@ media_order: paypal.jpg
 ---
 
 <div class="bg-success">Arbor Vista uses Paypal for Dues Payment</div>
+
 ===
+
+https://www.paypal.com/donate?hosted_button_id=AT9LDE2KDM4AY
 
 [paypal.me/arborvistapay](https://www.paypal.me/arborvistapay)
 
