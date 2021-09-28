@@ -11,7 +11,8 @@ feed:
     limit: 10
 ---
 
-Arbor Vista uses Paypal for Dues Payment
+
+<div class="bg-success">Arbor Vista uses Paypal for Dues Payment</div>
 ===
 
 [paypal.me/arborvistapay](https://www.paypal.me/arborvistapay)
