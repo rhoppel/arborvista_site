@@ -26,3 +26,11 @@ media_order: paypal.jpg
 
 Now you can pay your Year Dues using PayPal
 
+https://www.paypal.com/donate?hosted_button_id=WBXLBYRA7ES3E
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="WBXLBYRA7ES3E" />
+<input type="image" src="https://files.arborvista.org/logo/AV%20Black%20Logo%20Button.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
