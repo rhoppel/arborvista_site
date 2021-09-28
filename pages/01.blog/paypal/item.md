@@ -16,9 +16,11 @@ media_order: paypal.jpg
 
 ===
 
-https://www.paypal.com/donate?hosted_button_id=AT9LDE2KDM4AY
-
-[paypal.me/arborvistapay](https://www.paypal.me/arborvistapay)
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="AT9LDE2KDM4AY" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Make a Dues Payment" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
 
 Now you can pay your Year Dues using PayPal
 
