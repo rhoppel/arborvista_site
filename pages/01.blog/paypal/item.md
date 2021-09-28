@@ -14,8 +14,8 @@ feed:
 Arbor Vista uses Paypal for Dues Payment
 ===
 
-[paypal.me/arborvistapay][https://www.paypal.me/arborvistapay]
+[paypal.me/arborvistapay](https://www.paypal.me/arborvistapay)
 
 Now you can pay your Year Dues using PayPal
 
-![paypal][https://files.arborvista.org/logo/paypal.jpg]
+![paypal](https://files.arborvista.org/logo/paypal.jpg)
