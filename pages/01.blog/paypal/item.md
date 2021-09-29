@@ -1,5 +1,5 @@
 ---
-title: PayPal
+title: Make Dues Payment using Paypal
 date: '14:50 28-09-2021'
 hide_git_sync_repo_link: false
 blog_url: /blog
@@ -12,7 +12,7 @@ feed:
 media_order: paypal.jpg
 ---
 
-<div class="bg-success">Arbor Vista uses Paypal for Dues Payment</div>
+<div class="bg-success">Arbor Vista uses Paypal for Online Dues Payment</div>
 
 ===
 
