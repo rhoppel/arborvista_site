@@ -16,6 +16,7 @@ media_order: paypal.jpg
 
 ===
 
+# Pay Yearly Dues 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="3TD5HRB6P2832" />
 <input type="image" src="https://files.arborvista.org/images/PayPal_Button_Dues.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
