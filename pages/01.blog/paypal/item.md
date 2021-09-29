@@ -27,3 +27,7 @@ media_order: paypal.jpg
 ## QR Code for quick access to Payment
 
 ![Paypal QR code](https://files.arborvista.org/images/PayPal_QR_Code.png)
+
+##Another  QR Code for quick access to Payment
+
+![Paypal QR code](https://files.arborvista.org/images/paypal_qrcode_base.jpg)
