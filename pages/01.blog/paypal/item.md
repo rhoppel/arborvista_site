@@ -16,7 +16,7 @@ media_order: paypal.jpg
 
 ===
 
-## Make a Yearly Dues Payment
+## Make a Yearly Dues Payment using PayPal
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="WBXLBYRA7ES3E" />
@@ -24,6 +24,6 @@ media_order: paypal.jpg
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-## QR Code for quick access to Payment
+## QR Code for quick access to PayPal Payment
 
 ![Paypal QR code](https://files.arborvista.org/images/paypal_qrcode_base.jpg)
