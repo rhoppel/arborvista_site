@@ -16,7 +16,7 @@ media_order: paypal.jpg
 
 ===
 
-## Yearly Dues
+## Make a Yearly Dues Payment
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="WBXLBYRA7ES3E" />
