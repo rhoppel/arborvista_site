@@ -24,6 +24,6 @@ media_order: paypal.jpg
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-## QR Code for a quick access to the payPal Payment
+## QR Code for a quick access to PayPal Payment
 
 ![Paypal QR code](https://files.arborvista.org/images/PayPal_QR_Code.png)
