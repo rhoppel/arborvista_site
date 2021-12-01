@@ -15,11 +15,11 @@ body_classes: header-fixed
 
 | __Elected Office__       | Person      | Appointed Office      | Person |
 | :--- | :--- | :--- | :--- |
-|  President |  `Karen Hoppel` |  Social |  `Jennifer Kielp` |
-|  Vice President |  `Diana Friess` |   Welcoming |  `Paula Glassel` |
+|  President | `Diana Friess`  |  Social |  `Jennifer Kielp` |
+|  Vice President | `Heidi Olson` |   Welcoming |  `Paula Glassel` |
 |  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `Mike Herzog` |
 |  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
-|  Sergeant at Arms |  `Georgia Schuette` | | |
+|  Sergeant at Arms |  `Georgia Schuette` | Member at Large | `Karen Hoppel`  |
 
 ## Introductions - Board & all those attending the meeting.
 
@@ -50,94 +50,19 @@ body_classes: header-fixed
 *   **Guest Speaker: Heide Olson, long-time resident - History of Arbor Vista**
 *   **Election of Officers (Proposed Slate)**
 
-<table>
-  
-  
-President
-  
-  Diana Friess
-  
-  Appointed Positions
-  
-  
-  
-  
-  
-  Vice President
-  
-  Heide Olson
-  
-  Social
-  
-  Jennifer Kielp
-  
-  
-  
-  Treasurer
-  
-  Rick Hoppel
-  
-  Welcoming
-  
-  Paula Glassel
-  
-  
-  
-  Secretary
-  
-  Jennifer Kielp
-  
-  Buildings & Grounds
-  
-  Mike Herzog
-  
-  
-  
-  Sergeant at Arms
-  
-  Georgie Schuette
-  
-  Board Member at Large
-  
-  Andy Friess
-  
-  
-  
-  
-  
-  
-  
-  Board Member at Large
-  
-  Karen Hoppel
-  
-  
-</table>
+| __Elected Office__       | Person      | 
+|  President | `Mike Herzog` |  
+|  Vice President | `Diana Friess` |   
+|  Treasurer |  `Rick Hoppel` |   
+|  Secretary | `Heidi Olson` |   
+|  Sergeant at Arms |  `Georgia Schuette` | 
 
-
-**2021 Events			Annual Meeting: Feb 13th - Zoom   10:00 am**
-
-
-<table>
+**2022 Events	|  Date/Time
+:--- | : ---
+Annual Meeting:   | Jan 29th - Zoom   10:00 am**
+  Easter Egg Hunt   |   Canceled this year - Covid
+  Picnic/Walk about |   Saturday in Summer 
+  Adopt-A-Highway |   Saturday April 24  9 am
+  Halloween Party   |   Sunday October 31
   
-  Easter Egg Hunt
-  
-  Canceled this year - Covid
-  
-  Picnic/Walk about
-  
-  Saturday in Summer 
-  
-  
-  
-  Adopt-A-Highway
-  
-  Saturday April 24  9 am
-  
-  Halloween Party
-  
-  Sunday October 31
-  
-  
-</table>
 
