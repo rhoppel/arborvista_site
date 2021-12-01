@@ -54,12 +54,12 @@ body_classes: header-fixed
 |  Sergeant at Arms |  `Georgia Schuette` | 
 
 
-**2022 Events	|  Date/Time
+2022 Events	|  Date/Time
 :--- | : ---
 Annual Meeting:   | Jan 29th - Zoom   10:00 am**
-  Easter Egg Hunt   |   Canceled this year - Covid
-  Picnic/Walk about |   Saturday in Summer 
-  Adopt-A-Highway |   Saturday April 24  9 am
-  Halloween Party   |   Sunday October 31
+Easter Egg Hunt   |   Canceled this year - Covid
+Picnic/Walk about |   Saturday in Summer 
+Adopt-A-Highway |   Saturday April 24  9 am
+Halloween Party   |   Sunday October 31
   
 
