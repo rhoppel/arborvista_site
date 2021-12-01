@@ -37,9 +37,6 @@ body_classes: header-fixed
 
 
 ## NEW BUSINESS
-
-
-
 *   Review & Approve [2021 Proposed Budget](https://arborvista.org/docs/2021-ava-proposed-budget)
 *   If interested in obtaining Covid19 vaccine, register here:[ https://allvax.lakecohealth.org](https://allvax.lakecohealth.org) 
 *   Election of new officers
@@ -47,75 +44,8 @@ body_classes: header-fixed
 *   **Guest Speaker: Heide Olson, long-time resident - History of Arbor Vista**
 *   **Election of Officers (Proposed Slate)**
 
-<table>
-  
-  
-President
-  
-  Diana Friess
-  
-  Appointed Positions
-  
-  
-  
-  
-  
-  Vice President
-  
-  Heide Olson
-  
-  Social
-  
-  Jennifer Kielp
-  
-  
-  
-  Treasurer
-  
-  Rick Hoppel
-  
-  Welcoming
-  
-  Paula Glassel
-  
-  
-  
-  Secretary
-  
-  Jennifer Kielp
-  
-  Buildings & Grounds
-  
-  Mike Herzog
-  
-  
-  
-  Sergeant at Arms
-  
-  Georgie Schuette
-  
-  Board Member at Large
-  
-  Andy Friess
-  
-  
-  
-  
-  
-  
-  
-  Board Member at Large
-  
-  Karen Hoppel
-  
-  
-</table>
+**2022 Events			Annual Meeting: Feb 13th - Zoom   10:00 am**
 
-
-**2021 Events			Annual Meeting: Feb 13th - Zoom   10:00 am**
-
-
-<table>
   
   Easter Egg Hunt
   
