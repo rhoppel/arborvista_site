@@ -26,9 +26,9 @@ body_classes: header-fixed
 
 ## OLD BUSINESS
 
-*   State of Arbor Vista - 2020 Accomplishments
-*   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
-*   Review & Approve [ 2020 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
+*   State of Arbor Vista - 2021 Accomplishments
+*   Review & Approve [2021 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
+*   Review & Approve [ 2022 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
 *   Committee Updates
 *   Welcome Committee - Paula Glassel
 *   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
@@ -40,6 +40,9 @@ body_classes: header-fixed
 *   Election of new officers
 *   Questions & Answers
 *   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist "Ask and Ecologist**
+
+---
+
 *   **Election of Officers (Proposed Slate)**
 
 | __Elected Office__       | Person      | 
@@ -50,6 +53,7 @@ body_classes: header-fixed
 |  Secretary | `Heidi Olson` |   
 |  Sergeant at Arms |  `Georgia Schuette` | 
 
+---
 
 2022 Events	|  Date/Time
 :--- | : ---
