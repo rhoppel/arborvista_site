@@ -5,20 +5,20 @@ hide_git_sync_repo_link: false
 body_classes: header-fixed
 ---
 
-## 2021 Arbor Vista Association Annual Meeting Agenda
-### **Date:  February 13, 2021  10:00 A.M – Via Zoom **
-### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09) 
-- OR start Zoom APP for Meeting ID: **891 4729 9026**  Passcode: **915414**
+## 2022 Arbor Vista Association Annual Meeting Agenda
+### **Date:  January 29, 2022  10:00 A.M – Via Zoom **
+### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/81441430216?pwd=OXp6MXlkdGJqS2orZ1lTNm1TWTlzZz09)
+- OR start Zoom APP for Meeting ID: **814 4143 0216**  Passcode: **697896**
 
 ---
 
 
 | __Elected Office__       | Person      | Appointed Office      | Person |
 | :--- | :--- | :--- | :--- |
-|  President |  `Karen Hoppel` |  Social |  `Jennifer Kielp` |
+|  President | `Mike Herzog`   |  Social |  `Kathy Tichy` |
 |  Vice President |  `Diana Friess` |   Welcoming |  `Paula Glassel` |
-|  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `Mike Herzog` |
-|  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
+|  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `???` |
+|  Secretary |  `???` |   Member at Large |  `Karen Hoppel` |
 |  Sergeant at Arms |  `Georgia Schuette` | | |
 
 ## Introductions - Board & all those attending the meeting.
@@ -27,10 +27,7 @@ body_classes: header-fixed
 
 
 ## OLD BUSINESS
-
-
-
-*   State of Arbor Vista - 2020 Accomplishments
+*   State of Arbor Vista - 2021 Accomplishments
 *   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
 *   Review & Approve[ 2020 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
 *   Committee Updates
