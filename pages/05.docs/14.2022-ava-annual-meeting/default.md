@@ -12,7 +12,7 @@ body_classes: header-fixed
 
 ---
 
-| __Elected Office__       | Person      | Appointed Office      | Person |
+|  Elected Office      | Person      | Appointed Office      | Person |
 | :--- | :--- | :--- | :--- |
 |  President | `Diana Friess`  |  Social |  `Jennifer Kielp` |
 |  Vice President | `Heidi Olson` |   Welcoming |  `Paula Glassel` |
