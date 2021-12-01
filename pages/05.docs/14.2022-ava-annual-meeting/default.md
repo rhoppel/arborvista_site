@@ -50,6 +50,7 @@ body_classes: header-fixed
 *   **Election of Officers (Proposed Slate)**
 
 | __Elected Office__       | Person      | 
+| :--- | : --- |
 |  President | `Mike Herzog` |  
 |  Vice President | `Diana Friess` |   
 |  Treasurer |  `Rick Hoppel` |   
