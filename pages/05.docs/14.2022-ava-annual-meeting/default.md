@@ -27,8 +27,6 @@ body_classes: header-fixed
 
 ## OLD BUSINESS
 
-
-
 *   State of Arbor Vista - 2020 Accomplishments
 *   Review & Approve [2020 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
 *   Review & Approve[ 2020 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
@@ -39,8 +37,6 @@ body_classes: header-fixed
 
 
 ## NEW BUSINESS
-
-
 
 *   Review & Approve [2021 Proposed Budget](https://arborvista.org/docs/2021-ava-proposed-budget)
 *   If interested in obtaining Covid19 vaccine, register here:[ https://allvax.lakecohealth.org](https://allvax.lakecohealth.org) 
@@ -56,6 +52,7 @@ body_classes: header-fixed
 |  Treasurer |  `Rick Hoppel` |   
 |  Secretary | `Heidi Olson` |   
 |  Sergeant at Arms |  `Georgia Schuette` | 
+
 
 **2022 Events	|  Date/Time
 :--- | : ---
