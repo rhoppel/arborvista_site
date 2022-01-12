@@ -8,8 +8,9 @@ body_classes: header-fixed
 ## 2022 Arbor Vista Association Annual Meeting Agenda
 ### **Date:  January 29th, 2022  10:00 A.M – Via Zoom **
 ### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/81441430216?pwd=OXp6MXlkdGJqS2orZ1lTNm1TWTlzZz09) 
-- OR start Zoom APP for Meeting ID: **14 4143 0216**  Passcode: **697896**
+- OR start Zoom APP for Meeting ID: **814 4143 0216**  Passcode: **697896**
 
+# `PRELIMINARY - SUBJECT TO CHANGE`
 ---
 
 |  Elected Office      | Person      | Appointed Office      | Person |
@@ -27,7 +28,7 @@ body_classes: header-fixed
 ## OLD BUSINESS
 
 *   State of Arbor Vista - 2021 Accomplishments
-*   Review & Approve [2021 Annual Meeting Minutes](https://arborvista.org/docs/2020-ava-annual-meeting-minutes) -Secretary, Jennifer Kielp
+*   Review & Approve [2021 Annual Meeting Minutes](https://docs.google.com/document/d/1gotmdy0gv31M25ffJQLtGIzsNcgVds2qyGTsX9wMtlA/edit?usp=sharing) -Secretary, Jennifer Kielp
 *   Review & Approve [ 2022 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Rick Hoppel)
 *   Committee Updates
 *   Welcome Committee - Paula Glassel
@@ -39,7 +40,8 @@ body_classes: header-fixed
 *   Review & Approve [2022 Proposed Budget](https://arborvista.org/docs/2021-ava-proposed-budget)
 *   Election of new officers
 *   Questions & Answers
-*   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist "Ask and Ecologist"**
+*   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist **
+*   **"Living in a Forest Preserve? (developing a catchy title)"**
 
 ---
 
@@ -57,10 +59,10 @@ body_classes: header-fixed
 
 2022 Events	|  Date/Time
 :--- | : ---
-Annual Meeting:   | Jan 29th - Zoom   10:00 am**
-Easter Egg Hunt   |   Canceled this year - Covid
+Annual Meeting:   | Jan 29th - Zoom   10:00 am
+Easter Egg Hunt   |   Saturday April 16 10 am
 Picnic/Walk about |   Saturday in Summer 
-Adopt-A-Highway |   Saturday April 24  9 am
-Halloween Party   |   Sunday October 31
+Adopt-A-Highway |   Saturday April 30  9 am
+Halloween Party   |   Sunday October 29
   
 
