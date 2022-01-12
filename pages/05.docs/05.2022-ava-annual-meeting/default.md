@@ -50,10 +50,10 @@ body_classes: header-fixed
 | __Elected Office__       | Person      | 
 | :--- | : --- |
 |  President | `Mike Herzog` |  
-|  Vice President | `Diana Friess` |   
+|  Vice President | `Karen Hoppel` |   
 |  Treasurer |  `Rick Hoppel` |   
-|  Secretary | `Heidi Olson` |   
-|  Sergeant at Arms |  `Georgia Schuette` | 
+|  Secretary | `???` |   
+|  Sergeant at Arms |  `Diana Friess` | 
 
 ---
 
