@@ -16,9 +16,9 @@ body_classes: header-fixed
 |  Elected Office      | Person      | Appointed Office      | Person |
 | :--- | :--- | :--- | :--- |
 |  President | `Diana Friess`  |  Social |  `Jennifer Kielp` |
-|  Vice President | `Heidi Olson` |   Welcoming |  `Paula Glassel` |
+|  Vice President | `???` |   Welcoming |  `Paula Glassel` |
 |  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `Mike Herzog` |
-|  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
+|  Secretary |  `???` |   Member at Large |  `Andy Friess` |
 |  Sergeant at Arms |  `Georgia Schuette` | Member at Large | `Karen Hoppel`  |
 
 ## Introductions - Board & all those attending the meeting.
