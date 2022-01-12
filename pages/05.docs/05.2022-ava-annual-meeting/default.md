@@ -16,9 +16,9 @@ body_classes: header-fixed
 |  Elected Office      | Person      | Appointed Office      | Person |
 | :--- | :--- | :--- | :--- |
 |  President | `Diana Friess`  |  Social |  `Jennifer Kielp` |
-|  Vice President | `???` |   Welcoming |  `Paula Glassel` |
+|  Vice President | `Heidi Olson` |   Welcoming |  `Paula Glassel` |
 |  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `Mike Herzog` |
-|  Secretary |  `???` |   Member at Large |  `Andy Friess` |
+|  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
 |  Sergeant at Arms |  `Georgia Schuette` | Member at Large | `Karen Hoppel`  |
 
 ## Introductions - Board & all those attending the meeting.
@@ -41,7 +41,7 @@ body_classes: header-fixed
 *   Election of new officers
 *   Questions & Answers
 *   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist **
-*   **"Living in a Forest Preserve? (developing a catchy title)"**
+*   **"Secrets of the Almond Marsh"**
 
 ---
 
