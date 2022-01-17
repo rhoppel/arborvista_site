@@ -6,5 +6,5 @@ hide_git_sync_repo_link: false
 
 # 2022 Arbor Vista Association Proposed Budget
 
-
+![](2022_AVA_Proposed_Budget.png)
 
