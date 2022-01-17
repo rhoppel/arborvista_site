@@ -51,7 +51,7 @@ body_classes: header-fixed
 
 !!!! ## NEW BUSINESS
 !!!! 
-!!!! *   Review & Approve [2020 AVA Proposed Budget](https://arborvista.org/docs/2022-ava-annual-meeting)
+!!!! *   Review & Approve [2020 AVA Proposed Budget](../2022-ava-proposed budget)
 !!!! *   Election of new officers
 !!!! *   Questions & Answers
 !!!! *   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist **
