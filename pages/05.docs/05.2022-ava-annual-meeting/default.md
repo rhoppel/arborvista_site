@@ -5,6 +5,8 @@ hide_git_sync_repo_link: false
 body_classes: header-fixed
 ---
 
+<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
+
 !!! ## 2022 Arbor Vista Association Annual Meeting Agenda
 !!! ### **Date:  January 29th, 2022  10:00 A.M – Via Zoom **
 !!! ### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/81441430216?pwd=OXp6MXlkdGJqS2orZ1lTNm1TWTlzZz09) 
@@ -40,7 +42,7 @@ body_classes: header-fixed
 !!! ## OLD BUSINESS
 !!! 
 !!! *   State of Arbor Vista - 2021 Accomplishments (President/Diana Friess)
-!!! *   Review & Approve [2021 Annual Meeting Minutes](https://docs.google.com/document/d/1gotmdy0gv31M25ffJQLtGIzsNcgVds2qyGTsX9wMtlA/edit?usp=sharing) (Secretary, Jennifer Kielp)
+!!! *   Review & Approve [2021 Annual Meeting Minutes](https://docs.google.com/document/d/e/2PACX-1vTEhHkAwFG6HRVNwnYJ3BkewGng2QxkZz1yaRVm73uTlddHRi-3sbmaLEt4Q5guufZLzszBc2HQxr9P/pub) (Secretary, Jennifer Kielp)
 !!! *   Review & Approve [ 2022 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Treasurer/Rick Hoppel)
 !!! *   Committee Updates
 !!! *   Welcome Committee  (Welconing/Paula Glassel)

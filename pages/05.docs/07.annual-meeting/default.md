@@ -5,6 +5,8 @@ hide_git_sync_repo_link: false
 body_classes: header-fixed
 ---
 
+<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
+
 ## 2021 Arbor Vista Association Annual Meeting Agenda
 ### **Date:  February 13, 2021  10:00 A.M – Via Zoom **
 ### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/89147299026?pwd=Wlh0RjF5a0JqRU96WXJKUjdVUXJiZz09) 
