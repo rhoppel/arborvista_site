@@ -4,7 +4,13 @@ date: '03:19 17-01-2022'
 hide_git_sync_repo_link: false
 ---
 
-# 2022 Arbor Vista Association Proposed Budget
+<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
-![](2022_AVA_Proposed_Budget.png)
+[Logo]: /images/Oak_Tree2_100.png
+
+
+
+# ![Logo] 2022 Arbor Vista Association Proposed Budget
+
+![](./2022_AVA_Proposed_Budget.png)
 

@@ -6,7 +6,9 @@ hide_git_sync_repo_link: false
 
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
-# 💰2022 AVA Annual Meeting Treasurer Report
+[Logo]: /images/Oak_Tree2_100.png
+# ![Logo] 💰2022 AVA Annual Meeting Treasurer Report
+
 
 ## Project 
 
@@ -18,12 +20,8 @@ hide_git_sync_repo_link: false
 
  ## Sign Installation
  
-!!! - **911**   Sign Installations_
-!!!   - **17**  Signs Installed in 2021
-!!!   - **53**  Total Signs Installed (137 homes)
-!!!   - **4**   Signs Pending Installation
 !!!   - **$838**   Money Spent This Year
-!!!   - **$2710**   Funds Remaining
+!!!   - **$2710/$4500**   Funds Remaining
 
 ## Checking Account
 
@@ -32,9 +30,9 @@ hide_git_sync_repo_link: false
 
 ## Budget
 
-!!!  - **$929**  Surplus
+!!!  - **$901**  Surplus
 !!!    - **$534**   due to cancellation of most Social Events
-!!!    - **$300**   Front entrance
+!!!    - **$274**   Building & Grounds
 !!!    - **$0**   Discretionary Fund Expenditures
 !!!  -  _911 Sign Project_
 !!!    - **$838**   Money Spent This Year

@@ -7,9 +7,12 @@ body_classes: header-fixed
 
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
-!!! ## 2022 Arbor Vista Association Annual Meeting Agenda
+[Logo]: /images/Oak_Tree2_100.png
+
+
+!!! ## # ![Logo]  2022 Arbor Vista Association Annual Meeting Agenda
 !!! ### **Date:  January 29th, 2022  10:00 A.M – Via Zoom **
-!!! ### [Click HERE for Zoom Meeting](https://us02web.zoom.us/j/81441430216?pwd=OXp6MXlkdGJqS2orZ1lTNm1TWTlzZz09) 
+!!! ### [Click HERE to join Zoom Meeting](https://us02web.zoom.us/j/81441430216?pwd=OXp6MXlkdGJqS2orZ1lTNm1TWTlzZz09) 
 !!! - OR start Zoom APP for Meeting ID: **814 4143 0216**  Passcode: **697896**
 !!! - The AVA meeting is Public and ALL can view the proceeding
 
@@ -19,10 +22,9 @@ body_classes: header-fixed
 !! - Mail Dues ($50) to:  __**AVA ; PO Box 433 ; Grayslake IL 60030**__
 !! - or Scan PayPal QR Code (below) or https://paypal.me/arborvistapay on your Phone or computer
 
-#### Scan PayPal QR Code to make AVA Dues Payment 
-
-![AVA PayPal QR Code](https://files.arborvista.org/images/PayPal_QR_Code.png?resize=400,200) {.center}
-
+!! #### Scan PayPal QR Code to make AVA Dues Payment 
+!! 
+!!   - ![AVA PayPal QR Code](https://files.arborvista.org/images/PayPal_QR_Code.png?resize=400,200) 
 # `PRELIMINARY - SUBJECT TO CHANGE`
 ---
 ! ## AVA Board
@@ -30,7 +32,7 @@ body_classes: header-fixed
 ! |  Elected Office      | Person      | Appointed Office      | Person |
 ! | :--- | :--- | :--- | :--- |
 ! |  President | `Diana Friess`  |  Social |  `Jennifer Kielp` |
-! |  Vice President | `Heidi Olson` |   Welcoming |  `Paula Glassel` |
+! |  Vice President |  |   Welcoming |  `Paula Glassel` |
 ! |  Treasurer |  `Rick Hoppel` |   Buildings & Grounds |  `Mike Herzog` |
 ! |  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
 ! |  Sergeant at Arms |  `Georgia Schuette` | Member at Large | `Karen Hoppel`  |
@@ -43,15 +45,21 @@ body_classes: header-fixed
 !!! 
 !!! *   State of Arbor Vista - 2021 Accomplishments (President/Diana Friess)
 !!! *   Review & Approve [2021 Annual Meeting Minutes](https://docs.google.com/document/d/e/2PACX-1vTEhHkAwFG6HRVNwnYJ3BkewGng2QxkZz1yaRVm73uTlddHRi-3sbmaLEt4Q5guufZLzszBc2HQxr9P/pub) (Secretary, Jennifer Kielp)
-!!! *   Review & Approve [ 2022 AVA Treasurer Report](https://arborvista.org/docs/2020-ava-treasurer-report) (Treasurer/Rick Hoppel)
+!!! *   Review & Approve [ 2022 AVA Treasurer Report](https://arborvista.org/docs/2022-ava-treasurer-report) (Treasurer/Rick Hoppel)
 !!! *   Committee Updates
-!!! *   Welcome Committee  (Welconing/Paula Glassel)
+!!! *   Welcome Committee  (Welcoming/Paula Glassel)
 !!! *   Review 911 Address Sign Program - Rick Hoppel - Mike Herzog
+!!! ### Sign Installations
+!!!   - **17**  Signs Installed in 2021
+!!!   - **53**  Total Signs Installed (137 homes)
+!!!   - **4**   Signs Pending Installation
+!!!   - **$838**   Money Spent This Year
+!!!   - **$2710**   Funds Remaining
 !!! *  [AV 911 Driveway Signs | ArborVista](https://arborvista.org/projects/av-911-signs)
 
 !!!! ## NEW BUSINESS
 !!!! 
-!!!! *   Review & Approve  [2020 AVA Proposed Budget](../ava-2022-proposed-budget)
+!!!! *   Review & Approve  [2022 AVA Proposed Budget](../ava-2022-proposed-budget)
 !!!! *   Election of new officers
 !!!! *   Questions & Answers
 !!!! *   **Guest Speaker: Ken Klick/Lake County Forest Preserve District Ecologist **
@@ -59,7 +67,7 @@ body_classes: header-fixed
 
 ---
 
-!!! *   **Election of Officers (Proposed Slate)**
+!!!  ### Election of Officers
 !!! 
 !!! | __Elected Office__       | Person      | 
 !!! | :--- | : --- |
@@ -68,15 +76,20 @@ body_classes: header-fixed
 !!! |  Treasurer |  `Rick Hoppel` |   
 !!! |  Secretary | `???` |   
 !!! |  Sergeant at Arms |  `Diana Friess` | 
+!!! 
 
 ---
 
-! 2022 Events	|  Date/Time
-! :--- | : ---
-! Annual Meeting:   | Jan 29th - Zoom   10:00 am
-! Easter Egg Hunt   |   Saturday April 16 10 am
-! Picnic/Walk about |   Saturday in Summer 
-! Adopt-A-Highway |   Saturday April 30  9 am
-! Halloween Party   |   Sunday October 29
-  
+!  ### Community Events
+!
+! | 2022 Events	|  Date/Time 
+! | :--- | : ---
+! | Annual Meeting:   | Jan 29th - Zoom   10:00 am
+! | Easter Egg Hunt   |   Saturday April 16 10 am
+! | Adopt-A-Highway |   Saturday April 30  9 am
+! | Picnic |   Saturday in Summer 
+! | Halloween Party   |   Sunday October 30
+! | Pond Cleanup   | Feb 19 9am, Mar 19  9am, April 16 9am, May 21  9am
+! | Dog Walk for Charity | sometime in September |
+! 
 
