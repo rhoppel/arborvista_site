@@ -9,7 +9,6 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
-published: true
 ---
 
 <div class="bg-success">The 2021 Annual Arbor Vista Association is Happening!</div>
