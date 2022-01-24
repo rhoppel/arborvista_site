@@ -15,7 +15,7 @@ feed:
 
 ===
 - Date & Time: 10:00 am  Saturday January 29th with coffee, orange, and donuts available at 9:00am. at the Arbor Vista Bulletin Board 
--  Zoom Meeting https://bit.ly/ava2022
+-  Zoom Meeting Full Details @ >https://bit.ly/ava2022
 - Guest speaker: "Dark Secrets of the Almond Marsh"  Ken Klick, Lake County Forest Preserve Ecologist
 
 ===
