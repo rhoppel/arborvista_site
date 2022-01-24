@@ -11,7 +11,7 @@ feed:
     limit: 10
 ---
 
-<div class="bg-success">The 2022 Arbor Vista Association iAnnual  Meeting is coming up soon</div>
+<div class="bg-success">The 2022 Arbor Vista Association Annual  Meeting is coming up soon</div>
 
 ===
 # details@ https://bit.ly/ava2022
