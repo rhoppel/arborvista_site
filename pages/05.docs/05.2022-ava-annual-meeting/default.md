@@ -31,7 +31,7 @@ body_classes: header-fixed
 !! ### [Treasure Report](../2022-ava-treasurer-report)
 !! ### [Proposed Budget](../ava-2022-proposed-budget)
 
-!!!! Questions???  send an email to <ava@arborvista.org>
+!!!! ## Questions???  send an email to <ava@arborvista.org>
 ---
 ! ## AVA Board
 !
