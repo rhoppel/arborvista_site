@@ -1,6 +1,6 @@
 ---
 title: '2022 AVA Annual Meeting'
-date: '15:53 17-01-2022'
+date: '15:53 24-01-2022'
 hide_git_sync_repo_link: false
 blog_url: /blog
 show_sidebar: true
@@ -9,6 +9,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+publish_date: '24-01-2022 13:08'
 ---
 
 <div class="bg-success">The 2022 Arbor Vista Association Annual  Meeting is coming up soon</div>
