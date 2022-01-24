@@ -26,12 +26,12 @@ body_classes: header-fixed
 !! 
 !!   - ![AVA PayPal QR Code](https://files.arborvista.org/images/PayPal_QR_Code.png?resize=400,200) 
 
-!! ## 2022 AVA Annual Meeting Documents
-!! ### [Agenda](https://docs.google.com/document/d/17v-nWRXvIagOO9PxWV3HvHnl39No68vQw5cGEmsj4MA/edit?usp=sharing)
-!! ### [Treasure Report](../2022-ava-treasurer-report)
-!! ### [Proposed Budget](../ava-2022-proposed-budget)
+!!!! ## 2022 AVA Annual Meeting Documents
+!!!! ### [Agenda](https://docs.google.com/document/d/17v-nWRXvIagOO9PxWV3HvHnl39No68vQw5cGEmsj4MA/edit?usp=sharing)
+!!!! ### [Treasure Report](../2022-ava-treasurer-report)
+!!!! ### [Proposed Budget](../ava-2022-proposed-budget)
 
-!!!! #### Questions???  send an email to <ava@arborvista.org>
+!! #### Questions???  send an email to <ava@arborvista.org>
 ---
 ! ## AVA Board
 !
