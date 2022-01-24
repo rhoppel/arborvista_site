@@ -45,5 +45,5 @@ body_classes: header-fixed
 !!! ## Meeting Etiquette
 !!! ### Introductions will be made by Board Members & all those attending the meeting.
 !!!
-!!! ### **Zoom Ground Rules- **Everyone will be muted.  Raise hands for questions, motions & voting.
+!!! ### **Zoom Ground Rules- **Everyone will be muted until unmuted by the moderator.  Raise hands for questions, motions & voting.
 
