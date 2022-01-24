@@ -42,7 +42,8 @@ body_classes: header-fixed
 ! |  Secretary |  `Jennifer Kielp` |   Member at Large |  `Andy Friess` |
 ! |  Sergeant at Arms |  `Georgia Schuette` | Member at Large | `Karen Hoppel`  |
 
-!!! ## Introductions - Board & all those attending the meeting.
+!!! ## Meeting Etiquette
+!!! ### Introductions will be made by Board Members & all those attending the meeting.
 !!!
 !!! ### **Zoom Ground Rules- **Everyone will be muted.  Raise hands for questions, motions & voting.
 
