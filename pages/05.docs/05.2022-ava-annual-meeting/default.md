@@ -25,7 +25,8 @@ body_classes: header-fixed
 !! #### Scan PayPal QR Code to make AVA Dues Payment 
 !! 
 !!   - ![AVA PayPal QR Code](https://files.arborvista.org/images/PayPal_QR_Code.png?resize=400,200) 
-# `PRELIMINARY - SUBJECT TO CHANGE`
+
+# [2022 AVA Agenda](https://docs.google.com/document/d/17v-nWRXvIagOO9PxWV3HvHnl39No68vQw5cGEmsj4MA/edit?usp=sharing)
 ---
 ! ## AVA Board
 !
@@ -41,4 +42,3 @@ body_classes: header-fixed
 
 **Zoom Ground Rules- **Everyone will be muted.  Raise hands for questions, motions & voting.
 
-[2022 AVA Agenda](https://docs.google.com/document/d/17v-nWRXvIagOO9PxWV3HvHnl39No68vQw5cGEmsj4MA/edit?usp=sharing)
