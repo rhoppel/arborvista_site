@@ -14,10 +14,9 @@ feed:
 <div class="bg-success">The 2022 Arbor Vista Association iAnnual  Meeting is coming up soon</div>
 
 ===
-# click https://bit.ly/ava2022
+# details@ https://bit.ly/ava2022
 
 - Date & Time: 10:00 am  Saturday January 29th with coffee, orange, and donuts available at 9:00am. at the Arbor Vista Bulletin Board 
--  Zoom Meeting Full Details @ >https://bit.ly/ava2022
 - Guest speaker: "Dark Secrets of the Almond Marsh"  Ken Klick, Lake County Forest Preserve Ecologist
 
 ===
