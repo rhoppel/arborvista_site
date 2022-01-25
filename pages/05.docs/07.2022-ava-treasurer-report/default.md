@@ -14,21 +14,21 @@ hide_git_sync_repo_link: false
 
 !!!  Implemented PayPal payment system
 
-## Membership
+## Membership (as of 12/31/2021)
 
 !!! - **72**   AVA Members (74 in 2020)
 
- ## Sign Installation
+ ## Sign Installation Project
  
-!!!   - **$838**   Money Spent This Year
+!!!   - **$838**   Money Spent in 2021
 !!!   - **$2710/$4500**   Funds Remaining
 
-## Checking Account
+## Checking Account (as of 12/31/2021)
 
 !!!   - **$ 13,869**  Checking Account: (  $13,931 12/30/2020)
 !!!   - **7**  PayPal Memberships Received
 
-## Budget
+## Budget (as of 12/31/2021)
 
 !!!  - **$901**  Surplus
 !!!    - **$534**   due to cancellation of most Social Events

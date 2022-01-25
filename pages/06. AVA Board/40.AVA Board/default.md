@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 !!!! ### Elected Offices
 
 - President: __Diana Friess__ (<diana.friess@gmail.com>)
-- Vice President: __Heide Olson__ (<heideolson@comcast.net>)
+- Vice President: __OPEN__ 
 - Treasurer: __Richard Hoppel__ (<rhoppel@gmail.com>)
 - Secretary: __Jennifer Kielp__ (<jennifer@nounces.com>)
 - Sergeant-at-Arms: __Georgia Schuette__ (<glschuette@yahoo.com>)
