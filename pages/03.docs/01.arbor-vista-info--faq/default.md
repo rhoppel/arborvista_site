@@ -6,6 +6,8 @@ hide_git_sync_repo_link: false
 
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
+<br><br>
+
 !!!! # ![Logo] Arbor Vista Association Information
 [Logo]: /images/Oak_Tree2_100.png
 

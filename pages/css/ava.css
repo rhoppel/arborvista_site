@@ -1,33 +1,12 @@
 body {
-	background: seagreen;
-  font-family: Merriwether;
-  color: white;
-}
-
-@font-face {
-  font-family: octicons-link;
-  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
-}
-
-
-table {
-	width: 100%;
-	text-align: center;
-}
-
-th,thead {
-	background-color: #0fa34d;
+	padding: 50px 0;
+	/*	font-size: 19px; */
+	font-size: 1.2em;
+	font-family: Merriwether;
+	/*	font-family: HelveticaNeueETW01-55Rg; */
+	background: gray;
 	color: white;
 }
-
-tr {
-	background-color: #424242;
-	color: white;
-}
-tr:nth-child(even){
-	background-color: #2F2F2F;
-}
-
 
 article {
 	margin: 0 auto;
@@ -42,10 +21,10 @@ h1 {
 	font-size: 3.0em;
 	line-height: 0.928em;
 	text-align: center;
-/*	text-transform: uppercase; */
+	text-transform: uppercase;
 	font-weight: 400;
 	font-style: normal;
-	color: black;
+	color: navy;
 }
 
 h2 {
@@ -56,7 +35,7 @@ h2 {
 	text-transform: none;
 	font-weight: 400;
 	font-style: normal;
-	color: black;
+	color: navy;
 	padding: 0.254em;
 }
 
@@ -65,7 +44,7 @@ h3 {
 	font-family: Anaheim;
 	line-height: 0.931em;
 	margin: 0px 0px 0.0em 0px;
-	color: black;
+	color: navy;
 	padding: 0.254em;
 }
 
@@ -74,7 +53,7 @@ h4 {
 	font-family: Anaheim;
 	line-height: 1.0m;
 	margin: 0px 0px 0.0em 0px;
-	color: black;
+	color: whitesmoke;
 	padding: 0.254em;
 }
 
@@ -83,18 +62,18 @@ h5 {
 	font-family: Anaheim;
 	line-height: 1.0em;
 	margin: 0px 0px 0.0em 0px;
-	color: black;
+	color: whitesmoke;
 }
 
 h6 {
-	font-family: "Fjalla One";
+	font-family: Anaheim;
 	font-size: 1.9em;
 	line-height: 0.928em;
 	text-align: center;
 	text-transform: none;
 	font-weight: 400;
 	font-style: normal;
-	color: black;
+	color: #ed7d31;
 	padding: 0.254em;
 }
 
@@ -113,12 +92,11 @@ p.intro {
 	font-style: normal;
 }
 
-
 li {
-	color: white;
-/*	background-color: #424242; */
+	color: silver;
+	background-color: #222222;
 	font-weight: normal;
-} 
+}
 
 strong{
 	font-weight: bolder;
@@ -128,22 +106,112 @@ strong{
 	color: slategray;
 }
 
+
+/*
+table, th, td {
+	border: 1px solid black;
+}
+*/
+
+table {
+	width: 100%;
+	text-align: center;
+}
+
+th,thead {
+	background-color: #ed7d31;
+	color: white;
+}
+
+tr {
+	background-color: #424242;
+	color: white;
+}
+tr:nth-child(even){
+	background-color: #2F2F2F;
+}
+
+.tardis {
+	width: 30%;
+}
+
+p {
+	font-size: 1.0em;
+	line-height: 1.421em;
+	color: rgba(51, 51, 51, 0.80);
+	margin: 0px 0px 1.421em 0px;
+	font-family: Anaheim;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	color: white;
+}
+
+p.pullquote {
+	padding-left: 10px;
+	border-style: solid;
+	border-left-width: 3px;
+	color: rgba(242, 113, 113, 1);
+	font-size: 1.9em;
+	line-height: 1.421em;
+	margin: 0px 0px 1.421em 0px;
+	font-family: Aladin;
+	font-weight: 400;
+	font-style: normal;
+}
+
+p.author, h1.author {
+	text-align: center;
+	font-size: 3em;
+	letter-spacing: 2px;
+	margin: 0.25em 0px 0.25em 0px;
+	color: black;
+	text-transform: unset;
+}
+
+@media only screen and (max-width: 900px) {
+	article {
+		margin: 0 auto;
+		width: 100%;
+		padding: 0 2em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	body {
+		font-size: 90%;
+	}
+
+	h1 {
+		font-size: 3.75em;
+		line-height: 0.929em;
+	}
+
+	p {
+		font-size: 16px;
+	}
+
+	p.pullquote {
+		font-size: 16px;
+	}
+}
+
 /* unvisited link */
 a:link {
-  color: rgb(25, 25, 87);
+	color: whitesmoke;
 }
 
 /* visited link */
 a:visited {
-  color: green;
+	color: #B785D0;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+	color: lightseagreen;
 }
 
 /* selected link */
 a:active {
-  color: white;
+	color: red;
 }
