@@ -4,7 +4,6 @@ date: '09:23 25-01-2022'
 hide_git_sync_repo_link: false
 ---
 
-
 <link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
 
 [Logo]: /images/Oak_Tree2_100.png
