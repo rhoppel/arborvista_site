@@ -19,12 +19,12 @@ hide_git_sync_repo_link: false
 
 ## Membership (as of 12/31/2021)
 
-- **73**   AVA Members (74 in 2020)
+- **73**   AVA Members (74 in 2020, 41 in 2022 so far)
 
 ## Checking Account (as of 12/31/2021)
 
-- **$ 13,869**  Checking Account: (  $13,931 12/30/2020)
-- **7**  PayPal Memberships Received
+- **$ 13,869**  Checking Account: ($15,446.50  1/25/2022)
+- **7**  PayPal Memberships Received (18 this year)
 
 ## Budget (as of 12/31/2021)
 
