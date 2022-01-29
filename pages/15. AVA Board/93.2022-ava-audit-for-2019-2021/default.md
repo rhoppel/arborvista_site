@@ -3,7 +3,7 @@ title: '2022 AVA Audit for 2019-2021'
 date: '19:58 28-01-2022'
 hide_git_sync_repo_link: false
 login:
-    visibility_requires_access: true
+    visibility_requires_access: false
 ---
 
 # 🌳💰☑AVA Audit for 2019-2021
