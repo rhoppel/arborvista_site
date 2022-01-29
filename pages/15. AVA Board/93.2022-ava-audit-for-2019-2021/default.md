@@ -16,9 +16,9 @@ This document was created to share with others.  The links point to actual docum
 
 Every year at the AVA Annual Meeting the Treasurer prepares a report the includes a review of the previous year's budget,  It also includes reports of Assets, Liabilities, and a Balance Sheet. Additionally it also includes member numbers and  other significant information.
 
-[📜️2022 AVA Treasurer Annual Report](https://arborvista.org/docs/2022-ava-treasurer-report)
+[📜️2022 AVA Treasurer Annual Report](https://arborvista.org/docs/2022/2022-ava-treasurer-report)
 [📜️2021 AVA Treasurer Annual Report](https://docs.google.com/document/d/e/2PACX-1vQCx5WPrDRdoNQF4rRU44DniD8WENGHF2fSP5caYONgGq4ubKg-yKyFjK2GAXOlbeMSqzda3Lup4r9j/pub)
-[📜️2020 AVA Treasurer Annual Report](https://arborvista.org/docs/2019-ava-treasurer-report)
+[📜️2020 AVA Treasurer Annual Report](https://arborvista.org/docs/2020/2020-ava-treasurer-report)
 
 ### 📒Spreadsheets
 

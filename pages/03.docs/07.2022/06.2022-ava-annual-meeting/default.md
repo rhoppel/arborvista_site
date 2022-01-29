@@ -33,6 +33,7 @@ body_classes: header-fixed
 
 !!!! ## 2022 AVA Annual Meeting Documents
 !!!! - [Agenda](https://docs.google.com/document/d/17v-nWRXvIagOO9PxWV3HvHnl39No68vQw5cGEmsj4MA/edit?usp=sharing)
+!!!! - [2021 Annual Meeting Minutes](https://docs.google.com/document/d/1gotmdy0gv31M25ffJQLtGIzsNcgVds2qyGTsX9wMtlA/edit?usp=sharing)
 !!!! - [Treasure Report](../2022-ava-treasurer-report)
 !!!! - [Proposed Budget](../ava-2022-proposed-budget)
 
