@@ -6,6 +6,8 @@ login:
     visibility_requires_access: false
 ---
 
+<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
+
 # 🌳💰☑AVA Audit for 2019-2021
 
 This document was created to share with others.  The links point to actual documents.
@@ -24,8 +26,8 @@ Each Check Register entry includes references to expense reports (if necessary) 
 
 The following are live Excel spreadsheets in View only mode.
 
-[💰AVA_Finances.xlsx](https://onedrive.live.com/edit.aspx?resid=88FCEE2150B75169!421072&ithint=file%2cxlsx&wdOrigin=OFFICECOM-WEB.MAIN.MRU-OIB)
-[👥️AVA_Membership.xlsx](https://onedrive.live.com/edit.aspx?resid=88FCEE2150B75169!421076&ithint=file%2cxlsx&wdOrigin=OFFICECOM-WEB.MAIN.MRU)
+[💰AVA_Finances.xlsx](https://1drv.ms/x/s!AmlRt1Ah7vyImdlQk0Ymc1hYJzXoWA?e=SIyYtu)
+[👥️AVA_Membership.xlsx](https://1drv.ms/x/s!AmlRt1Ah7vyImdlUI9BtewibXOphoA?e=F1fyx3)
 
 ### 🗂AVA Treasury Document Repository
 
@@ -56,4 +58,3 @@ All Deposited checks & envelopes  are collected for review.   All checks are dep
 Occasionally this PDF is updated to show all the PayPal activity starting in 9/1/2020.
 
 - [AVA PayPal Account Activity(pdf)](https://drive.google.com/file/d/1hKGRBmoqMCYmaX-aOjHOwqEoooPtCK5g/view?usp=sharing)
-.
