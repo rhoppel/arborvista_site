@@ -28,8 +28,6 @@ sitemap:
 pagination: true
 ---
 
-<link id="linkstyle" rel='stylesheet' href='/css/ava.css'/>
-
 # Arbor Vista
 ## portal to the neighborhood
 ### un-incorporated Warren Township, Lake County IL
