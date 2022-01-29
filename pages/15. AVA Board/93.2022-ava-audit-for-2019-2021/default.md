@@ -20,7 +20,7 @@ Every year at the AVA Annual Meeting the Treasurer prepares a report the include
 
 ### 📒Spreadsheets
 
-Each Check Register entry includes references to expense reports (if necessary) and budget expenditures. Columns have added which check verifying
+Each Check Register entry includes references to expense reports (if necessary) and budget expenditures. Columns have been added which serve to verify other columns (Calculated bank balance, Allocation - budget amount allocated matches expense and deposits). Check Registers are available for the following years.  2019, 2020, 2021, 2022.
 
 The following are live Excel spreadsheets in View only mode.
 
