@@ -53,7 +53,7 @@ All Deposited checks & envelopes  are collected for review.   All checks are dep
 
 ### PayPal Activity
 
-Occasionally this PDF is update to show all the PayPal activity starting in 9/1/2020.
+Occasionally this PDF is updated to show all the PayPal activity starting in 9/1/2020.
 
 - [AVA PayPal Account Activity(pdf)](https://drive.google.com/file/d/1hKGRBmoqMCYmaX-aOjHOwqEoooPtCK5g/view?usp=sharing)
 .
