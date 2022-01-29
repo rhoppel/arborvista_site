@@ -6,7 +6,7 @@ login:
     visibility_requires_access: true
 ---
 
-# [[🌳💰☑AVA Audit for 2019-2021]]
+# 🌳💰☑AVA Audit for 2019-2021
 
 This document was created to share with others.  The links point to actual documents.
 
