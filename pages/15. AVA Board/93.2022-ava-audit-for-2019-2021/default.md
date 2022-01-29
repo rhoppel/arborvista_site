@@ -38,7 +38,7 @@ Includes Expense Reports, Bank Statements, Receipts, Bill Payment Activity, etc.
 
 ### 💵Bill Payment Activity
 
-Most (if not all) of the checks are issued by the treasurer using the PNC Bill Pay service.   Checks are mailed to the recipient's address.
+Checks are issued by the treasurer using the PNC Bill Pay service.   Checks are mailed to the recipient's address.  An increasing number of bills are paid using PayPal. The PayPal activity can be seen in the link at the bottom of this  page.
 
 - [💵2021 PNC Bill Payment  Activity](https://drive.google.com/file/d/1h8Rq76JOIfj1qUx8cfzOXof-fq7v_FCj/view?usp=sharing)
 - [💵2020 PNC Bill Payment  Activity](https://drive.google.com/file/d/1h8SuMcLFSwjaKysGeELhwnPeOMDYcZp6/view?usp=sharing)
