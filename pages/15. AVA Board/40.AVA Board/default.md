@@ -8,19 +8,19 @@ hide_git_sync_repo_link: false
 
 !!!! ### Elected Offices
 
-- President: __Diana Friess__ (<diana.friess@gmail.com>)
-- Vice President: __OPEN__ 
+- President: __Mike Herzog__ (<mikezog@ameritech.net>)
+- Vice President: __Karen Hoppel__ (<karhoppel@gmail.com>)
 - Treasurer: __Richard Hoppel__ (<rhoppel@gmail.com>)
-- Secretary: __Jennifer Kielp__ (<jennifer@nounces.com>)
-- Sergeant-at-Arms: __Georgia Schuette__ (<glschuette@yahoo.com>)
+- Secretary: __Mary Fortmann__  (<merryfmann@gmail.com>)
+- Sergeant-at-Arms: __Diana Friess__ (<diana.friess@gmail.com>)
 
 !!!! ### Appointed
 
-- Member at large: __Andrew Friess__ (<andy.friess@gmail.com>)
+- Member at large: __Kathy Tichy__ (<kmtichy70@gmail.com>)
+- Member at large:  __Georgia Schuette__ (<glschuette@yahoo.com>)
 - Welcoming:  __Paula Glassel__ (<paulajjg@hotmail.com>)
-- Buildings & Grounds: __Mike Herzog__ (<mikezog@ameritech.net>)
-- Social: __Jennifer Kielp__ (<jennifer@nounces.com>)
-- Member at large:  __Karen Hoppel__ (<karhoppel@gmail.com>)
+- Buildings & Grounds: 
+- Social: 
 
 !!!! ### Committees
 
