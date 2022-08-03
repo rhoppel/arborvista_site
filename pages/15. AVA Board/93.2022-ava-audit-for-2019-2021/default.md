@@ -10,7 +10,23 @@ login:
 
 # 🌳💰☑AVA Audit for 2019-2021
 
-This document was created to share with others.  The links point to actual documents.
+- This document was created to share with others.  The links point to actual documents.
+- AVA Financial Records are maintained to be completely transparent to board members at any time
+- Documentation was created in order to perform an audit at a remote location to AVA Treasurer location
+- Documentation utilizes online Microsoft Excel spreadsheets. No additional software is needed.
+- Treasury Documentation was maintained by JB Morrow through November 2019 and Richard Hoppel from that time till present.
+- Spreadsheets incorporate several features to validate data entry
+- Data from PNC Bank records are extracted by CUTTING directly from PNC website Check Register and PASTING into AVA Financial spreadsheet check register
+  
+### Audit Procedures
+
+- Validate that AVA Financial Records & Reports match PNC bank records
+- Validate that Annual Budgets are adequately documented 
+- Validate that AVA payments are documented adequately and appropriately dispersed
+- Validate that AVA income is documented adequately, appropriately deposited and recorded
+- Request AVA Treasurer to answer documentation questions & supply additional requested documentation 
+- Suggest changes to better document AVA Financial Records
+- Report Results to AVA Board
 
 ### 📜Annual Meeting Reports
 
