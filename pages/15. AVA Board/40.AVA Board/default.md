@@ -12,13 +12,11 @@ hide_git_sync_repo_link: false
 - Vice President: __Karen Hoppel__ (<karhoppel@gmail.com>)
 - Treasurer: __Richard Hoppel__ (<rhoppel@gmail.com>)
 - Secretary: __Mary Fortmann__  (<merryfmann@gmail.com>)
-- Sergeant-at-Arms: __Diana Friess__ (<diana.friess@gmail.com>)
+- Sergeant-at-Arms: __Peter Spangle__ (<peterspangle@gmail.com>)
 
 !!!! ### Appointed
 
-- Member at large: __Kathy Tichy__ (<kmtichy70@gmail.com>)
-- Member at large:  __Georgia Schuette__ (<glschuette@yahoo.com>)
-- Welcoming:  __Paula Glassel__ (<paulajjg@hotmail.com>)
+- Welcoming: __Kathy Tichy__ (<kmtichy70@gmail.com>)
 - Buildings & Grounds: 
 - Social: 
 
